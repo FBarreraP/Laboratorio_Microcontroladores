@@ -45,7 +45,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 
 <h4>Segundo corte</h4>
 
-<code style="color : blue">text</code>
+<p style="color : blue">text</p>
 
 <table>
 	<tr>
