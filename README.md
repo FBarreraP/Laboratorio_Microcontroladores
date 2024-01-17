@@ -56,7 +56,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>18/03/2024</td> <td>2</td> <td>2</td> <td>1</td> <td>Guía No. 1 de laboratorio</td>
 	</tr>
 	<tr>
-		<td><span style="color:red">25/03/2024</span></td> <td></td> <td></td> <td></td> <td><font color="red">SEMANA SANTA</font></td>
+		<td><p style="color:red">25/03/2024</p></td> <td></td> <td></td> <td></td> <td><font color="red">SEMANA SANTA</font></td>
 	</tr>
 	<tr>
 		<td>12/02/2024</td> <td>2</td> <td>4</td> <td>2</td> <td>Desarrollo guía No. 1 de laboratorio</td>
