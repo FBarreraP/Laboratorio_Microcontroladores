@@ -13,98 +13,32 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 
 <h3>TEMAS 🤓</h3>
 
-|   Fecha  | Horas | Clase | Semana |                               Actividades                               |
-|:--------:|:-----:|:-----:|:------:|:-----------------------------------------------------------------------:|
-| /02/2024 |   2   |   1   |    1   |                        Presentación de la materia                       |
-| /02/2024 |   2   |   2   |    1   | Introducción a `Python` (toolbox Peter Corke), GUI y Repositorio GitHub |
-| /02/2024 |   2   |   3   |    2   |              Traslación y rotación de un sistema coordenado             |
-| /02/2024 |   2   |   4   |    2   |                 Matriz de transformación homogénea (MTH)                |
-| /02/2024 |   2   |   5   |    3   |                               Laboratorio                               |
-| /02/2024 |   2   |   6   |    3   |                               Laboratorio                               |
-| /02/2024 |   2   |   7   |    4   |                    Introducción a cinemática directa                    |
-| /02/2024 |   2   |   8   |    4   |                      Método Denavit–Hartenberg (DH)                     |
-| /02/2024 |   2   |   9   |    5   |                           Parcial primer corte                          |
-| /02/2024 |   2   |   10  |    5   |                               Laboratorio                               |
-
 <h4>Primer corte</h4>
 
 <table>
 	<tr>
-		<td style="text-align:center">Fecha</td>
-		<td style="text-align:center">Horas</td>
-		<td style="text-align:center">Clase</td>
-		<td style="text-align:center">Semana</td>
-		<td style="text-align:center">Actividades</td>
+		<td style="text-align:center">Fecha</td> <td style="text-align:center">Horas</td> <td style="text-align:center">Clase</td> <td style="text-align:center">Semana</td> <td style="text-align:center">Actividades</td>
 	</tr>
 	<tr>
-		<td>/02/2024</td>
-		<td>2</td>
-		<td>1</td>
-		<td>1</td>
-		<td>Presentación de la materia</td>
+		<td>22/01/2024</td> <td>2</td> <td>1</td> <td>1</td> <td>Presentación de la materia</td>
 	</tr>
 	<tr>
-		<td>/02/2024</td>
-		<td>2</td>
-		<td>2</td>
-		<td>1</td>
-		<td>Introducción a `Python` (toolbox Peter Corke), GUI y Repositorio GitHub</td>
+		<td>29/01/2024</td> <td>2</td> <td>2</td> <td>1</td> <td>Guía No. 1 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>/02/2024</td>
-		<td>2</td>
-		<td>3</td>
-		<td>2</td>
-		<td>Traslación y rotación de un sistema coordenado</td>
+		<td>05/02/2024</td> <td>2</td> <td>3</td> <td>2</td> <td>Desarrollo guia No. 1 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>/02/2024</td>
-		<td>2</td>
-		<td>4</td>
-		<td>2</td>
-		<td>Matriz de transformación homogénea (MTH)</td>
+		<td>12/02/2024</td> <td>2</td> <td>4</td> <td>2</td> <td>Desarrollo guia No. 1 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>/02/2024</td>
-		<td>2</td>
-		<td>5</td>
-		<td>3</td>
-		<td>Laboratorio</td>
+		<td>19/02/2024</td> <td>2</td> <td>5</td> <td>3</td> <td>Guía No. 1 de laboratorio<br>Desarrollo guia No. 1 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>/02/2024</td>
-		<td>2</td>
-		<td>6</td>
-		<td>3</td>
-		<td>Laboratorio</td>
+		<td>26/02/2024</td> <td>2</td> <td>6</td> <td>3</td> <td>Desarrollo de guía No. 1 y 2 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>/02/2024</td>
-		<td>2</td>
-		<td>7</td>
-		<td>4</td>
-		<td>Introducción a cinemática directa</td>
-	</tr>
-	<tr>
-		<td>/02/2024</td>
-		<td>2</td>
-		<td>8</td>
-		<td>4</td>
-		<td>Método Denavit–Hartenberg (DH)</td>
-	</tr>
-	<tr>
-		<td>/02/2024</td>
-		<td>2</td>
-		<td>9</td>
-		<td>5</td>
-		<td>Parcial primer corte<td>
-	</tr>
-	<tr>
-		<td>/02/2024</td>
-		<td>2</td>
-		<td>10</td>
-		<td>5</td>
-		<td>Laboratorio<td>
+		<td>04/03/2024</td> <td>2</td> <td>7</td> <td>4</td> <td>Entrega de notas primer corte</td>
 	</tr>
 
 </table>
