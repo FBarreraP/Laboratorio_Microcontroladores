@@ -43,7 +43,9 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 
 </table>
 
-$${\color{red}Welcome}$$
+<h4>Segundo corte</h4>
+
+{\color{red}Welcome}
 
 <table>
 	<tr>
