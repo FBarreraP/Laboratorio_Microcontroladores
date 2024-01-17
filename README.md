@@ -113,30 +113,30 @@ Some Markdown text with <span style="color:blue">some *blue* text</span>.
 		<td>Metodología</td>
 	</tr>
 	<tr>
-		<td rowspan="2">Primer (20%)</td>
-		<td>Parcial</td>
-		<td>10%</td>
-		<td>/02/2024</td>
+		<td rowspan="2">Primer (30%)</td>
+		<td>Guía No. 1 de laboratorio</td>
+		<td>15%</td>
+		<td>05/02/2024<br>12/02/2024<br>19/02/2024</td>
 		<td rowspan="7">Presencial</td>
 	</tr>
 	<tr>
-		<td>Laboratorios y/o talleres</td>
-		<td>10%</td>
-		<td>/02/2024</td>
+		<td>Guía No. 2 de laboratorio</td>
+		<td>15%</td>
+		<td>26/02/2024<br>04/03/2024</td>
 	</tr>
 	<tr>
 		<td rowspan="2">Segundo (30%)</td>
-		<td>Parcial</td>
+		<td>Guía No. 3 de laboratorio</td>
+		<td>15%</td>
+		<td>18/03/2024<br></td>
+	</tr>
+	<tr>
+		<td>Guía No. 4 de laboratorio</td>
 		<td>15%</td>
 		<td>/02/2024</td>
 	</tr>
 	<tr>
-		<td>Laboratorios y/o talleres</td>
-		<td>15%</td>
-		<td>/02/2024</td>
-	</tr>
-	<tr>
-		<td rowspan="3">Tercer (50%)</td>
+		<td rowspan="3">Tercer (40%)</td>
 		<td>Examen final</td>
 		<td>15%</td>
 		<td>/02/2024</td>
@@ -197,6 +197,44 @@ Some Markdown text with <span style="color:blue">some *blue* text</span>.
 <ul>
 	<li> Computador 💻</li>
 	<li> Visual Studio Code</li>
-	<li> STM-32</li>
+	<li> STM-32 (NUCLEO STM32F767ZI o NUCLEO STM32F756ZG o NUCLEO STM32F746ZG o NUCLEO STM32F722ZE)</li>
 	<img src="https://www.codeinsideout.com/blog/stm32/stm32-nucleo-boards.png" alt="Imagen de Raspberrys Pi 3B y 4B" caption="Hola"/>
+    <li> Fuentes de alimentación</li>
+    <img src="" alt="" caption="Hola"/>
+    <li> Multimetro</li>
+    <img src="" alt="" caption="Hola"/>
+    <li> Leds, resistencias, pulsadores, cables, protoboard</li>
+    <img src="" alt="" caption="Hola"/>
+    <li> Potenciómetro</li>
+    <img src="" alt="" caption="Hola"/>
+    <li> Fotoresistencia</li>
+    <img src="" alt="" caption="Hola"/>
+    <li> PT100</li>
+    <img src="" alt="" caption="Hola"/>
+    <li> CNY70</li>
+    <img src="" alt="" caption="Hola"/>
+    <li> Display 7 segmentos (ánodo o cátodo común)</li>
+    <img src="" alt="" caption="Hola"/>
+    <li> Matriz de leds 8x8 (ánodo o cátodo común)</li>
+    <img src="" alt="" caption="Hola"/>
+    <li> Display LCD 16x2 o 16x4 o 20x2 o 20x4</li>
+    <img src="" alt="" caption="Hola"/>
+    <li> Teclado matricial de membrana</li>
+    <img src="" alt="" caption="Hola"/>
+    <li> Conversor UART a USB (FTDI)</li>
+    <img src="" alt="" caption="Hola"/>
+    <li> Motor paso a paso</li>
+    <img src="" alt="" caption="Hola"/>
+    <li> Servomotores SG90 o MG90</li>
+    <img src="" alt="" caption="Hola"/>
+    <li> Motoreductor DC</li>
+    <img src="" alt="" caption="Hola"/>
+    <li> Sensor ultrasónico HC-SR04</li>
+    <img src="" alt="" caption="Hola"/>
+    <li> Puente H (L298/L293)</li>
+    <img src="" alt="" caption="Hola"/>
+    <li> Encoder incremental</li>
+    <img src="" alt="" caption="Hola"/>
+    <li> Sensor o actuador I2C (MPU6050, PCA9685, RTC (DS1307, DS3231), INA219, EEPROMs (24lc04, 24lc64, 24lc1025), )</li>
+    <img src="https://free-electronic.com/wp-content/uploads/2022/02/Real-Time-Clock-RTC-DS3231.jpg" alt="DS3231" caption="Hola"/>
 </ul>
