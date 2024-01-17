@@ -26,16 +26,16 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>29/01/2024</td> <td>2</td> <td>2</td> <td>1</td> <td>Guía No. 1 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>05/02/2024</td> <td>2</td> <td>3</td> <td>2</td> <td>Desarrollo guia No. 1 de laboratorio</td>
+		<td>05/02/2024</td> <td>2</td> <td>3</td> <td>2</td> <td>Desarrollo guía No. 1 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>12/02/2024</td> <td>2</td> <td>4</td> <td>2</td> <td>Desarrollo guia No. 1 de laboratorio</td>
+		<td>12/02/2024</td> <td>2</td> <td>4</td> <td>2</td> <td>Desarrollo guía No. 1 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>19/02/2024</td> <td>2</td> <td>5</td> <td>3</td> <td>Guía No. 1 de laboratorio<br>Desarrollo guia No. 1 de laboratorio</td>
+		<td>19/02/2024</td> <td>2</td> <td>5</td> <td>3</td> <td>Guía No. 2 de laboratorio<br>Desarrollo guía No. 1 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>26/02/2024</td> <td>2</td> <td>6</td> <td>3</td> <td>Desarrollo de guía No. 1 y 2 de laboratorio</td>
+		<td>26/02/2024</td> <td>2</td> <td>6</td> <td>3</td> <td>Desarrollo de guía No. 1 y 2 de laboratorio</td><!--Semana de parciales del primer corte-->
 	</tr>
 	<tr>
 		<td>04/03/2024</td> <td>2</td> <td>7</td> <td>4</td> <td>Entrega de notas primer corte</td>
@@ -47,81 +47,28 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 
 <table>
 	<tr>
-		<td>Fecha</td>
-		<td>Horas</td>
-		<td>Clase</td>
-		<td>Semana</td>
-		<td>Actividades</td>
+		<td>Fecha</td> <td>Horas</td> <td>Clase</td> <td>Semana</td> <td>Actividades</td>
 	</tr>
 	<tr>
-		<td>/02/2024</td>
-		<td>2</td>
-		<td>11</td>
-		<td>6</td>
-		<td>Retroalimentación del parcial y propuesta del proyecto</td>
+		<td>11/03/2024</td> <td>2</td> <td>1</td> <td>1</td> <td>Guía No. 3 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>/02/2024</td>
-		<td>2</td>
-		<td>12</td>
-		<td>6</td>
-		<td>GUI Python</td>
+		<td>18/03/2024</td> <td>2</td> <td>2</td> <td>1</td> <td>Guía No. 1 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>/02/2024</td>
-		<td>2</td>
-		<td>13</td>
-		<td>7</td>
-		<td>Introducción a cinematica inversa y 2R</td>
+		<td style="color:#FF0000">25/03/2024</td> <td>2</td> <td>3</td> <td>2</td> <td>SEMANA SANTA</td>
 	</tr>
 	<tr>
-		<td>/02/2024</td>
-		<td>2</td>
-		<td>14</td>
-		<td>7</td>
-		<td>Cinemática inversa 3R y trayectorias del 3R</td>
+		<td>12/02/2024</td> <td>2</td> <td>4</td> <td>2</td> <td>Desarrollo guía No. 1 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>/02/2024</td>
-		<td>2</td>
-		<td>15</td>
-		<td>8</td>
-		<td>Laboratorio</td>
+		<td>19/02/2024</td> <td>2</td> <td>5</td> <td>3</td> <td>Guía No. 2 de laboratorio<br>Desarrollo guía No. 1 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>/02/2024</td>
-		<td>2</td>
-		<td>16</td>
-		<td>8</td>
-		<td>Laboratorio</td>
+		<td>26/02/2024</td> <td>2</td> <td>6</td> <td>3</td> <td>Desarrollo de guía No. 1 y 2 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>/02/2024</td>
-		<td>2</td>
-		<td>17</td>
-		<td>9</td>
-		<td>Desacople cinemático 6R</td>
-	</tr>
-	<tr>
-		<td>/02/2024</td>
-		<td>2</td>
-		<td>18</td>
-		<td>9</td>
-		<td>Jacobianos</td>
-	</tr>
-	<tr>
-		<td>/02/2024</td>
-		<td>2</td>
-		<td>19</td>
-		<td>10</td>
-		<td>Parcial segundo corte<td>
-	</tr>
-	<tr>
-		<td>/02/2024</td>
-		<td>2</td>
-		<td>20</td>
-		<td>10</td>
-		<td>Laboratorio<td>
+		<td>04/03/2024</td> <td>2</td> <td>7</td> <td>4</td> <td>Entrega de notas primer corte</td>
 	</tr>
 
 </table>
@@ -272,7 +219,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<li> Prohibido el uso de celular en quices y clase 📵</li>
 		<li> Permitidas las salidas al baño 🚻 y a recibir llamadas 📲, en los quices se debe dejar el celular en el puesto para salir al baño</li>
 		<li> Si no dejan dictar la clase, pasan al tablero a dar la clase o doy la clase por vista 😤</li>
-		<li> No es permitido tomar fotos, ni videos en clase 📵. El material de clase está en el siguiente repositorio git: https://github.com/FBarreraP/ElectivaRobotica </li>
+		<li> No es permitido tomar fotos, ni videos en clase 📵. El material de clase está en el siguiente repositorio git: https://github.com/FBarreraP/Laboratorio_Microcontroladores </li>
 		<li> Los laboratorios y el proyecto consistirán únicamente de montaje y podrán ser realizados en grupos de máximo 2 estudiantes 🧍‍♂️🧍‍♀️</li>
 		<li> Los montajes realizados en protoboard no son aceptados con jumpers, por tanto, deben ser realizados con cable UTP y no son compartidos, es decir, un montaje por grupo 🤷‍♂️</li>
 		<li> Los laboratorios y proyecto se calificarán con rúbricas de 0.0 a 5.0 con intervalo de 1.0 y las cuales tendrán una fecha fija de entrega 💥</li> 
@@ -305,10 +252,6 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 <ul>
 	<li> Computador 💻</li>
 	<li> Visual Studio Code</li>
-	<li> Raspberry Pi 3B/3B+/4B con Raspbian</li>
-	<img src="https://www.cnx-software.com/wp-content/uploads/2019/06/Raspberry-Pi-4-vs-Pi-3-Large.jpg" alt="Imagen de Raspberrys Pi 3B y 4B" caption="RPi 3B vs RPi 4B tomado de: https://60a99bedadae98078522-a9b6cded92292ef3bace063619038eb1.ssl.cf2.rackcdn.com/10777Image1.jpg"/>
 	<li> STM-32</li>
 	<img src="https://www.codeinsideout.com/blog/stm32/stm32-nucleo-boards.png" alt="Imagen de Raspberrys Pi 3B y 4B" caption="Hola"/>
-	<li> IMU (MPU6050 y MPU9250)</li>
-	<img src="https://memo.soarcloud.com/wp-content/uploads/2020/07/mpu6050-mpu9250.jpg" alt="Imagen de Raspberrys Pi 3B y 4B" caption="Hola"/>
 </ul>
