@@ -200,11 +200,11 @@ Some Markdown text with <span style="color:blue">some *blue* text</span>.
 	<li> STM-32 (NUCLEO STM32F767ZI o NUCLEO STM32F756ZG o NUCLEO STM32F746ZG o NUCLEO STM32F722ZE)</li>
 	<img src="https://www.codeinsideout.com/blog/stm32/stm32-nucleo-boards.png" alt="Imagen de Raspberrys Pi 3B y 4B" caption="Hola"/>
     <li> Fuentes de alimentación</li>
-    <img src="" alt="" caption="Hola"/>
+    <img src="https://cdnx.jumpseller.com/mactornica/image/9804941/1.jpg?1653696069" alt="Fuente AMS1117" caption="Hola"/>
     <li> Multimetro</li>
     <img src="" alt="" caption="Hola"/>
     <li> Leds, resistencias, pulsadores, cables, protoboard</li>
-    <img src="" alt="" caption="Hola"/>
+    <img src="https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR9gkrJHsEK9MCYNnJTZklwsNtW58ZzmrtdPMma9dXKXkLdYbt1PkHeGMi5cwDLLlRiOng2ozwdsB60QtZNCQF4hc3WUnPT6rx9HmCUAt1KuATjyJY9bNNWRA&usqp=CAE" alt="kit de protoboard" caption="Hola"/>
     <li> Potenciómetro</li>
     <img src="" alt="" caption="Hola"/>
     <li> Fotoresistencia</li>
@@ -236,7 +236,7 @@ Some Markdown text with <span style="color:blue">some *blue* text</span>.
     <li> Encoder incremental</li>
     <img src="" alt="" caption="Hola"/>
     <li> Sensor o actuador I2C (IMU (MPU6050, MPU9250), PCA9685, RTC (DS1307, DS3231), INA219, EEPROMs (24lc04, 24lc64,  24lc6128,  24lc256,  24lc512 24lc1025)</li>
-    <ol>
+    <ol type="I">
         <li>IMU (MPU6050 y MPU9250)</li>
         <img src="https://memo.soarcloud.com/wp-content/uploads/2020/07/mpu6050-mpu9250.jpg" alt="IMUs" caption="Hola"/>
         <li>PCA9685</li>
