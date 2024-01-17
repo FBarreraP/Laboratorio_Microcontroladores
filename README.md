@@ -235,6 +235,10 @@ Some Markdown text with <span style="color:blue">some *blue* text</span>.
     <img src="" alt="" caption="Hola"/>
     <li> Encoder incremental</li>
     <img src="" alt="" caption="Hola"/>
-    <li> Sensor o actuador I2C (MPU6050, PCA9685, RTC (DS1307, DS3231), INA219, EEPROMs (24lc04, 24lc64, 24lc1025), )</li>
+    <li> Sensor o actuador I2C (IMU (MPU6050, MPU9250), PCA9685, RTC (DS1307, DS3231), INA219, EEPROMs (24lc04, 24lc64,  24lc6128,  24lc256,  24lc512 24lc1025)</li>
+    <li> IMU (MPU6050 y MPU9250)</li>
+	<img src="https://memo.soarcloud.com/wp-content/uploads/2020/07/mpu6050-mpu9250.jpg" alt="IMUs" caption="Hola"/>
+    <img src="https://www.faranux.com/wp-content/uploads/2022/11/H0109d89cd8094629bcddf5bc7b9e9956r.jpg" alt="PCA9685" caption="Hola"/>
+    <img src="https://www.kanda.com/blog/wp-content/uploads/serial-eeproms.jpg" alt="EEPROMs" caption="Hola"/>
     <img src="https://free-electronic.com/wp-content/uploads/2022/02/Real-Time-Clock-RTC-DS3231.jpg" alt="DS3231" caption="Hola"/>
 </ul>
