@@ -87,7 +87,7 @@ Some Markdown text with <span style="color:blue">some *blue* text</span>.
 		<td>29/04/2024</td> <td>2</td> <td>14</td> <td>14</td> <td>Desarrollo guía No. 5 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>06/05/2024</td> <td>2</td> <td>15</td> <td>15</td> <td>Desarrollo de guía No. 5 de laboratorio<br>Guía No. 6 de laboratorio</td>
+		<td>06/05/2024</td> <td>2</td> <td>15</td> <td>15</td> <td>Guía No. 6 de laboratorio<br>Desarrollo de guía No. 5 de laboratorio</td>
 	</tr>
 	<tr>
 		<td>13/05/2024</td> <td>2</td> <td>16</td> <td>16</td> <td>FESTIVO</td>
