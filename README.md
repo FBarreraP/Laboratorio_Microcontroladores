@@ -44,8 +44,13 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 </table>
 
 <h4>Segundo corte</h4>
+<style>
+r { color: Red }
+o { color: Orange }
+g { color: Green }
+</style>
 
-<span style="color:blue">some *blue* text</span>
+<r>some *blue* text</r>
 
 <table>
 	<tr>
