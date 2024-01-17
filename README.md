@@ -45,6 +45,8 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 
 <h4>Segundo corte</h4>
 
+<span style="color:blue">some *blue* text</span>
+
 <table>
 	<tr>
 		<td>Fecha</td> <td>Horas</td> <td>Clase</td> <td>Semana</td> <td>Actividades</td>
