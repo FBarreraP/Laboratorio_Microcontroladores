@@ -13,6 +13,19 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 
 <h3>TEMAS 🤓</h3>
 
+|   Fecha  | Horas | Clase | Semana |                               Actividades                               |
+|:--------:|:-----:|:-----:|:------:|:-----------------------------------------------------------------------:|
+| /02/2024 |   2   |   1   |    1   |                        Presentación de la materia                       |
+| /02/2024 |   2   |   2   |    1   | Introducción a `Python` (toolbox Peter Corke), GUI y Repositorio GitHub |
+| /02/2024 |   2   |   3   |    2   |              Traslación y rotación de un sistema coordenado             |
+| /02/2024 |   2   |   4   |    2   |                 Matriz de transformación homogénea (MTH)                |
+| /02/2024 |   2   |   5   |    3   |                               Laboratorio                               |
+| /02/2024 |   2   |   6   |    3   |                               Laboratorio                               |
+| /02/2024 |   2   |   7   |    4   |                    Introducción a cinemática directa                    |
+| /02/2024 |   2   |   8   |    4   |                      Método Denavit–Hartenberg (DH)                     |
+| /02/2024 |   2   |   9   |    5   |                           Parcial primer corte                          |
+| /02/2024 |   2   |   10  |    5   |                               Laboratorio                               |
+
 <h4>Primer corte</h4>
 
 <table>
