@@ -23,10 +23,10 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>22/01/2024</td> <td>2</td> <td>1</td> <td>1</td> <td>Presentación de la materia</td>
 	</tr>
 	<tr>
-		<td>29/01/2024</td> <td>2</td> <td>2</td> <td>2</td> <td>Guía No. 1 de laboratorio</td>
+		<td>29/01/2024</td> <td>2</td> <td>2</td> <td>2</td> <td>Tutorial word para descargar el Keil</td>
 	</tr>
 	<tr>
-		<td>05/02/2024</td> <td>2</td> <td>3</td> <td>3</td> <td>Desarrollo guía No. 1 de laboratorio</td>
+		<td>05/02/2024</td> <td>2</td> <td>3</td> <td>3</td> <td>Guía No. 1 de laboratorio</td>
 	</tr>
 	<tr>
 		<td>12/02/2024</td> <td>2</td> <td>4</td> <td>4</td> <td>Desarrollo guía No. 1 de laboratorio</td>
@@ -106,49 +106,35 @@ Some Markdown text with <span style="color:blue">some *blue* text</span>.
 
 <table>
 	<tr>
-		<td>Corte</td>
 		<td>Actividad</td>
 		<td>Porcentaje 💯</td>
 		<td>Fecha</td>
 		<td>Metodología</td>
 	</tr>
 	<tr>
-		<td rowspan="2">Primer (30%)</td>
 		<td>Guía No. 1 de laboratorio</td>
-		<td>15%</td>
+		<td>6%</td>
 		<td>05/02/2024<br>12/02/2024<br>19/02/2024</td>
-		<td rowspan="7">Presencial</td>
+		<td rowspan="5">Presencial</td>
 	</tr>
 	<tr>
 		<td>Guía No. 2 de laboratorio</td>
-		<td>15%</td>
+		<td>6%</td>
 		<td>26/02/2024<br>04/03/2024</td>
 	</tr>
 	<tr>
-		<td rowspan="2">Segundo (30%)</td>
 		<td>Guía No. 3 de laboratorio</td>
-		<td>15%</td>
+		<td>6%</td>
 		<td>18/03/2024<br></td>
 	</tr>
 	<tr>
 		<td>Guía No. 4 de laboratorio</td>
-		<td>15%</td>
+		<td>6%</td>
 		<td>/02/2024</td>
 	</tr>
 	<tr>
-		<td rowspan="3">Tercer (40%)</td>
-		<td>Examen final</td>
-		<td>15%</td>
-		<td>/02/2024</td>
-	</tr>
-	<tr>
-		<td>Laboratorios y/o talleres</td>
-		<td>15%</td>
-		<td>/02/2024</td>
-	</tr>
-	<tr>
-		<td>Proyecto</td>
-		<td>20%</td>
+		<td>Guía No. 5 de laboratorio</td>
+		<td>6%</td>
 		<td>/02/2024</td>
 	</tr>
 </table>
@@ -167,7 +153,7 @@ Some Markdown text with <span style="color:blue">some *blue* text</span>.
 		<li> No es permitido tomar fotos, ni videos en clase 📵. El material de clase está en el siguiente repositorio git: https://github.com/FBarreraP/Laboratorio_Microcontroladores </li>
 		<li> Los laboratorios y el proyecto consistirán únicamente de montaje y podrán ser realizados en grupos de máximo 2 estudiantes 🧍‍♂️🧍‍♀️</li>
 		<li> Los montajes realizados en protoboard no son aceptados con jumpers, por tanto, deben ser realizados con cable UTP y no son compartidos, es decir, un montaje por grupo 🤷‍♂️</li>
-		<li> Los laboratorios y proyecto se calificarán con rúbricas de 0.0 a 5.0 con intervalo de 1.0 y las cuales tendrán una fecha fija de entrega 💥</li> 
+		<li> Los laboratorios y proyecto se calificarán con rúbricas de 0.0 a 5.0 con intervalo de 1.0 y las cuales tendrán una fecha fija de entrega y con orden de entrega definida por el profesor💥</li> 
 		<li> Los parciales y el examen final serán solucionados en hoja examen 📄</li> 
 		<li> Uso obligatorio de bata blanca en el laboratorio de robótica 🥼</li>
 	</ul>
