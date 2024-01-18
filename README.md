@@ -107,7 +107,9 @@ A very <span style='color: red;'>long</span> sentence.
 
 <h4>Segundo corte MEC C</h4>
 
-{{background:#fd0800}}(<TEXT>)
+<div style="color:green">
+    Markdown inline css styles
+</div>
 
 <style>
 blue {
