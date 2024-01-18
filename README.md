@@ -17,7 +17,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 
 <table>
 	<tr>
-		<td style="text-align:center">Fecha</td> <td style="text-align:center">Horas</td> <td style="text-align:center">Clase</td> <td style="text-align:center">Semana</td> <td style="text-align:center">Actividades</td>
+		<td>Fecha</td> <td>Horas</td> <td>Clase</td> <td>Semana</td> <td>Actividades</td>
 	</tr>
 	<tr>
 		<td>22/01/2024</td> <td>2</td> <td>1</td> <td>1</td> <td>Presentación de la materia</td>
@@ -47,7 +47,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 
 <table>
 	<tr>
-		<td style="text-align:center">Fecha</td> <td style="text-align:center">Horas</td> <td style="text-align:center">Clase</td> <td style="text-align:center">Semana</td> <td style="text-align:center">Actividades</td>
+		<td>Fecha</td> <td>Horas</td> <td>Clase</td> <td>Semana</td> <td>Actividades</td>
 	</tr>
 	<tr>
 		<td>26/01/2024</td> <td>2</td> <td>1</td> <td>1</td> <td>Presentación de la materia</td>
@@ -183,6 +183,8 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 
 <h3>MÉTODOS DE EVALUACIÓN ✍️</h3>
 
+<h4>Grupo MEC D</h4>
+
 <table>
 	<tr>
 		<td>Actividad</td>
@@ -215,6 +217,43 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>Guía No. 5 de laboratorio</td>
 		<td>6%</td>
 		<td>29/04/2024<br>06/05/2024<br>20/05/2024</td>
+	</tr>
+</table>
+
+<h4>Grupo MEC C</h4>
+
+<table>
+	<tr>
+		<td>Actividad</td>
+		<td>Porcentaje 💯</td>
+		<td>Fecha</td>
+		<td>Metodología</td>
+	</tr>
+	<tr>
+		<td>Guía No. 1 de laboratorio</td>
+		<td>6%</td>
+		<td>16/02/2024<br>23/02/2024</td>
+		<td rowspan="5">Presencial</td>
+	</tr>
+	<tr>
+		<td>Guía No. 2 de laboratorio</td>
+		<td>6%</td>
+		<td>01/03/2024<br>08/03/2024</td>
+	</tr>
+	<tr>
+		<td>Guía No. 3 de laboratorio</td>
+		<td>6%</td>
+		<td>22/03/2024<br>05/04/2024</td>
+	</tr>
+	<tr>
+		<td>Guía No. 4 de laboratorio</td>
+		<td>6%</td>
+		<td>12/04/2024<br>19/04/2024</td>
+	</tr>
+	<tr>
+		<td>Guía No. 5 de laboratorio</td>
+		<td>6%</td>
+		<td>03/05/2024<br>10/05/2024<br>24/05/2024</td>
 	</tr>
 </table>
 
