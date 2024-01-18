@@ -107,8 +107,6 @@ A very <span style='color: red;'>long</span> sentence.
 
 <h4>Segundo corte MEC C</h4>
 
-- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
-
 <table>
 	<tr>
 		<td>Fecha</td> <td>Horas</td> <td>Clase</td> <td>Semana</td> <td>Actividades</td>
@@ -120,7 +118,7 @@ A very <span style='color: red;'>long</span> sentence.
 		<td>22/03/2024</td> <td>2</td> <td>9</td> <td>9</td> <td>Desarrollo de guía No. 3 de laboratorio</td>
 	</tr>
 	<tr>
-		<td><p style="color:red">29/03/2024</p></td> <td></td> <td></td> <td></td> <td><font color="red">SEMANA SANTA</font></td>
+		<td>![#f03c15](https://placehold.it/15/f03c15/000000?text=29/03/2024)</p></td> <td></td> <td></td> <td></td> <td><font color="red">SEMANA SANTA</font></td>
 	</tr>
 	<tr>
 		<td>05/04/2024</td> <td>2</td> <td>10</td> <td>10</td> <td>Guía No. 4 de laboratorio<br>Desarrollo de guía No. 3 de laboratorio</td>
