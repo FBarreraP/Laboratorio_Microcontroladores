@@ -90,7 +90,7 @@ Some Markdown text with <span style="color:blue">some *blue* text</span>.
 		<td>18/03/2024</td> <td>2</td> <td>9</td> <td>9</td> <td>Desarrollo de guía No. 3 de laboratorio</td>
 	</tr>
 	<tr>
-		<td><p style="color:red">25/03/2024</p></td> <td></td> <td></td> <td></td> <td><font color="red">SEMANA SANTA</font></td>
+		<td style="color: red;">25/03/2024</td> <td></td> <td></td> <td></td> <td><font color="red">SEMANA SANTA</font></td>
 	</tr>
 	<tr>
 		<td>01/04/2024</td> <td>2</td> <td>10</td> <td>10</td> <td>Guía No. 4 de laboratorio<br>Desarrollo de guía No. 3 de laboratorio</td>
