@@ -132,7 +132,7 @@ A <blue>very</blue> long <red>sentence</red>.
 		<td>Fecha</td> <td>Horas</td> <td>Clase</td> <td>Semana</td> <td>Actividades</td>
 	</tr>
 	<tr>
-		<td>15/03/2024</td> <td>2</td> <td>8</td> <td>8</td> <td>Guía No. 3 de laboratorio</td>
+		<td style="background-color:#FF1744">15/03/2024</td> <td>2</td> <td>8</td> <td>8</td> <td>Guía No. 3 de laboratorio</td>
 	</tr>
 	<tr>
 		<td>22/03/2024</td> <td>2</td> <td>9</td> <td>9</td> <td>Desarrollo de guía No. 3 de laboratorio</td>
