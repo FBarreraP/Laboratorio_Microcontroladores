@@ -107,27 +107,7 @@ A very <span style='color: red;'>long</span> sentence.
 
 <h4>Segundo corte MEC C</h4>
 
-<div style="color:green">
-    Markdown inline css styles
-</div>
-
-<style>
-blue {
-  color: lightblue;
-}
-
-red {
-  color: red;
-}
-
-green {
-  color: lightgreen;
-}
-</style>
-
-A <blue>very</blue> long <red>sentence</red>.
-
-<green>bobbyhadz</green>.com
+- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
 
 <table>
 	<tr>
