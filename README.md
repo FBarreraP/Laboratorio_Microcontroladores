@@ -38,7 +38,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>26/02/2024</td> <td>2</td> <td>6</td> <td>6</td> <td>Desarrollo de guía No. 2 de laboratorio</td><!--semana de parciales del primer corte-->
 	</tr>
 	<tr>
-		<td>04/03/2024</td> <td>2</td> <td>7</td> <td>7</td> <td>Entrega de notas primer corte</td>
+		<td>04/03/2024</td> <td>2</td> <td>7</td> <td>7</td> <td>Desarrollo de guía No. 2 de laboratorio</td>
 	</tr><!--última semana de registro de notas del primer corte-->
 
 </table>
@@ -68,7 +68,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>01/03/2024</td> <td>2</td> <td>6</td> <td>6</td> <td>Desarrollo de guía No. 2 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>08/03/2024</td> <td>2</td> <td>7</td> <td>7</td> <td>Entrega de notas primer corte</td>
+		<td>08/03/2024</td> <td>2</td> <td>7</td> <td>7</td> <td>Desarrollo de guía No. 2 de laboratorio</td>
 	</tr><!--última semana de registro de notas del primer corte-->
 
 </table>
@@ -99,7 +99,7 @@ Some Markdown text with <span style="color:blue">some *blue* text</span>.
 		<td>08/04/2024</td> <td>2</td> <td>11</td> <td>11</td> <td><br>Desarrollo guía No. 4 de laboratorio</td>
 	</tr><!--semana de parciales del segundo corte-->
 	<tr>
-		<td>15/04/2024</td> <td>2</td> <td>12</td> <td>12</td> <td>Entrega de notas segundo corte</td>
+		<td>15/04/2024</td> <td>2</td> <td>12</td> <td>12</td> <td>Desarrollo guía No. 4 de laboratorio</td>
 	</tr><!--última semana de registro de notas del primer corte-->
 
 </table>
@@ -126,7 +126,7 @@ Some Markdown text with <span style="color:blue">some *blue* text</span>.
 		<td>12/04/2024</td> <td>2</td> <td>11</td> <td>11</td> <td><br>Desarrollo guía No. 4 de laboratorio</td>
 	</tr><!--semana de parciales del segundo corte-->
 	<tr>
-		<td>19/04/2024</td> <td>2</td> <td>12</td> <td>12</td> <td>Entrega de notas segundo corte</td>
+		<td>19/04/2024</td> <td>2</td> <td>12</td> <td>12</td> <td>Desarrollo guía No. 4 de laboratorio</td>
 	</tr><!--última semana de registro de notas del primer corte-->
 
 </table>
@@ -144,7 +144,7 @@ Some Markdown text with <span style="color:blue">some *blue* text</span>.
 		<td>29/04/2024</td> <td>2</td> <td>14</td> <td>14</td> <td>Desarrollo guía No. 5 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>06/05/2024</td> <td>2</td> <td>15</td> <td>15</td> <td>Guía No. 6 de laboratorio<br>Desarrollo de guía No. 5 de laboratorio</td>
+		<td>06/05/2024</td> <td>2</td> <td>15</td> <td>15</td> <td>Desarrollo de guía No. 5 de laboratorio</td>
 	</tr>
 	<tr>
 		<td>13/05/2024</td> <td>2</td> <td>16</td> <td>16</td> <td>FESTIVO</td>
@@ -171,7 +171,7 @@ Some Markdown text with <span style="color:blue">some *blue* text</span>.
 		<td>03/05/2024</td> <td>2</td> <td>14</td> <td>14</td> <td>Desarrollo guía No. 5 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>10/05/2024</td> <td>2</td> <td>15</td> <td>15</td> <td>Guía No. 6 de laboratorio<br>Desarrollo de guía No. 5 de laboratorio</td>
+		<td>10/05/2024</td> <td>2</td> <td>15</td> <td>15</td> <td>Desarrollo de guía No. 5 de laboratorio</td>
 	</tr>
 	<tr>
 		<td>17/05/2024</td> <td>2</td> <td>16</td> <td>16</td> <td>FESTIVO</td>
@@ -197,7 +197,7 @@ Some Markdown text with <span style="color:blue">some *blue* text</span>.
 	<tr>
 		<td>Guía No. 1 de laboratorio</td>
 		<td>6%</td>
-		<td>05/02/2024<br>12/02/2024<br>19/02/2024</td>
+		<td>12/02/2024<br>19/02/2024</td>
 		<td rowspan="5">Presencial</td>
 	</tr>
 	<tr>
@@ -208,17 +208,17 @@ Some Markdown text with <span style="color:blue">some *blue* text</span>.
 	<tr>
 		<td>Guía No. 3 de laboratorio</td>
 		<td>6%</td>
-		<td>18/03/2024<br></td>
+		<td>18/03/2024<br>01/04/2024</td>
 	</tr>
 	<tr>
 		<td>Guía No. 4 de laboratorio</td>
 		<td>6%</td>
-		<td>/02/2024</td>
+		<td>08/04/2024<br>15/04/2024</td>
 	</tr>
 	<tr>
 		<td>Guía No. 5 de laboratorio</td>
 		<td>6%</td>
-		<td>/02/2024</td>
+		<td>29/04/2024<br>06/05/2024<br>20/05/2024</td>
 	</tr>
 </table>
 
