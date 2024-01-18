@@ -75,11 +75,6 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 
 <h4>Segundo corte MEC D</h4>
 
-<font color="red">SEMANA SANTA</font>
-<a style="color : blue">text</a>
-Some Markdown text with <span style="color:blue">some *blue* text</span>.
-A very <span style='color: red;'>long</span> sentence.
-
 <table>
 	<tr>
 		<td>Fecha</td> <td>Horas</td> <td>Clase</td> <td>Semana</td> <td>Actividades</td>
@@ -91,7 +86,7 @@ A very <span style='color: red;'>long</span> sentence.
 		<td>18/03/2024</td> <td>2</td> <td>9</td> <td>9</td> <td>Desarrollo de guía No. 3 de laboratorio</td>
 	</tr>
 	<tr>
-		<td style="color: red;">25/03/2024</td> <td></td> <td></td> <td></td> <td><font color="red">SEMANA SANTA</font></td>
+		<td>25/03/2024</td> <td></td> <td></td> <td></td> <td>SEMANA SANTA</td>
 	</tr>
 	<tr>
 		<td>01/04/2024</td> <td>2</td> <td>10</td> <td>10</td> <td>Guía No. 4 de laboratorio<br>Desarrollo de guía No. 3 de laboratorio</td>
@@ -112,13 +107,13 @@ A very <span style='color: red;'>long</span> sentence.
 		<td>Fecha</td> <td>Horas</td> <td>Clase</td> <td>Semana</td> <td>Actividades</td>
 	</tr>
 	<tr>
-		<td style="background-color:#FF1744">15/03/2024</td> <td>2</td> <td>8</td> <td>8</td> <td>Guía No. 3 de laboratorio</td>
+		<td>15/03/2024</td> <td>2</td> <td>8</td> <td>8</td> <td>Guía No. 3 de laboratorio</td>
 	</tr>
 	<tr>
 		<td>22/03/2024</td> <td>2</td> <td>9</td> <td>9</td> <td>Desarrollo de guía No. 3 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>![#f03c15](https://placehold.it/15/f03c15/000000?text=+)</td> <td></td> <td></td> <td></td> <td><font color="red">SEMANA SANTA</font></td>
+		<td>29/03/2024</td> <td></td> <td></td> <td></td> <td>SEMANA SANTA</td>
 	</tr>
 	<tr>
 		<td>05/04/2024</td> <td>2</td> <td>10</td> <td>10</td> <td>Guía No. 4 de laboratorio<br>Desarrollo de guía No. 3 de laboratorio</td>
