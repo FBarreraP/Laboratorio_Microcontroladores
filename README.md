@@ -257,6 +257,8 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 	</tr>
 </table>
 
+Nota del curso = 0.21*NotaCorte1 + 0.21*NotaCorte2 + 0.28*NotaCorte3 + (***0.3***)*NotaLab
+
 <h3>OBSERVACIONES ⚠️</h3>
 
 <h4>Observaciones de clase</h4>
