@@ -78,6 +78,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 <font color="red">SEMANA SANTA</font>
 <a style="color : blue">text</a>
 Some Markdown text with <span style="color:blue">some *blue* text</span>.
+A very <span style='color: red;'>long</span> sentence.
 
 <table>
 	<tr>
@@ -105,6 +106,24 @@ Some Markdown text with <span style="color:blue">some *blue* text</span>.
 </table>
 
 <h4>Segundo corte MEC C</h4>
+
+<style>
+blue {
+  color: lightblue;
+}
+
+red {
+  color: red;
+}
+
+green {
+  color: lightgreen;
+}
+</style>
+
+A <blue>very</blue> long <red>sentence</red>.
+
+<green>bobbyhadz</green>.com
 
 <table>
 	<tr>
