@@ -164,10 +164,10 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>26/04/2024</td> <td>2</td> <td>13</td> <td>13</td> <td>Desarrollo de guía No. 4 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>03/05/2024</td> <td>2</td> <td>14</td> <td>14</td> <td>Socialización de guía No. 5 de laboratorio</td>
+		<td>03/05/2024</td> <td>2</td> <td>14</td> <td>14</td> <td>Entrega de guía No. 4 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>10/05/2024</td> <td>2</td> <td>15</td> <td>15</td> <td>Desarrollo de guía No. 5 de laboratorio</td>
+		<td>10/05/2024</td> <td>2</td> <td>15</td> <td>15</td> <td>Socialización de guía No. 5 de laboratorio</td>
 	</tr>
 	<tr>
 		<td>17/05/2024</td> <td>2</td> <td>16</td> <td>16</td> <td>Desarrollo de guía No. 5 de laboratorio</td>
