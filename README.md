@@ -26,7 +26,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>29/01/2024</td> <td>2</td> <td>2</td> <td>2</td> <td>Tutorial word para descargar Keil</td>
 	</tr>
 	<tr>
-		<td>05/02/2024</td> <td>2</td> <td>3</td> <td>3</td> <td>Guía No. 1 de laboratorio</td>
+		<td>05/02/2024</td> <td>2</td> <td>3</td> <td>3</td> <td>Socialización de guía No. 1 de laboratorio</td>
 	</tr>
 	<tr>
 		<td>12/02/2024</td> <td>2</td> <td>4</td> <td>4</td> <td>Desarrollo de guía No. 1 de laboratorio</td>
@@ -35,7 +35,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>19/02/2024</td> <td>2</td> <td>5</td> <td>5</td> <td>Entrega de guía No. 1 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>26/02/2024</td> <td>2</td> <td>6</td> <td>6</td> <td>Guía No. 2 de laboratorio</td><!--semana de parciales del primer corte-->
+		<td>26/02/2024</td> <td>2</td> <td>6</td> <td>6</td> <td>Socialización de Guía No. 2 de laboratorio</td><!--semana de parciales del primer corte-->
 	</tr>
 	<tr>
 		<td>04/03/2024</td> <td>2</td> <td>7</td> <td>7</td> <td>Desarrollo de guía No. 2 de laboratorio</td>
@@ -56,7 +56,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>02/02/2024</td> <td>2</td> <td>2</td> <td>2</td> <td>Tutorial word para descargar Keil</td>
 	</tr>
 	<tr>
-		<td>09/02/2024</td> <td>2</td> <td>3</td> <td>3</td> <td>Guía No. 1 de laboratorio</td>
+		<td>09/02/2024</td> <td>2</td> <td>3</td> <td>3</td> <td>Socialización de guía No. 1 de laboratorio</td>
 	</tr>
 	<tr>
 		<td>16/02/2024</td> <td>2</td> <td>4</td> <td>4</td> <td>Desarrollo guía No. 1 de laboratorio</td>
@@ -65,7 +65,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>23/02/2024</td> <td>2</td> <td>5</td> <td>5</td> <td>Entrega guía No. 1 de laboratorio</td><!--semana de parciales del primer corte-->
 	</tr>
 	<tr>
-		<td>01/03/2024</td> <td>2</td> <td>6</td> <td>6</td> <td>Guía No. 2 de laboratorio</td>
+		<td>01/03/2024</td> <td>2</td> <td>6</td> <td>6</td> <td>Socialización de guía No. 2 de laboratorio</td>
 	</tr>
 	<tr>
 		<td>08/03/2024</td> <td>2</td> <td>7</td> <td>7</td> <td>Desarrollo de guía No. 2 de laboratorio</td>
@@ -83,7 +83,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>11/03/2024</td> <td>2</td> <td>8</td> <td>8</td> <td>Entrega de guía No. 2 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>18/03/2024</td> <td>2</td> <td>9</td> <td>9</td> <td>Guía No. 3 de laboratorio</td>
+		<td>18/03/2024</td> <td>2</td> <td>9</td> <td>9</td> <td>Socialización de guía No. 3 de laboratorio</td>
 	</tr>
 	<tr>
 		<td>25/03/2024</td> <td></td> <td></td> <td></td> <td>SEMANA SANTA</td>
@@ -95,7 +95,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>08/04/2024</td> <td>2</td> <td>11</td> <td>11</td> <td><br>Entrega guía No. 3 de laboratorio</td>
 	</tr><!--semana de parciales del segundo corte-->
 	<tr>
-		<td>15/04/2024</td> <td>2</td> <td>12</td> <td>12</td> <td>Guía No. 4 de laboratorio</td>
+		<td>15/04/2024</td> <td>2</td> <td>12</td> <td>12</td> <td>Socialización de guía No. 4 de laboratorio</td>
 	</tr><!--última semana de registro de notas del primer corte-->
 
 </table>
@@ -110,7 +110,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>15/03/2024</td> <td>2</td> <td>8</td> <td>8</td> <td>Entrega de guía No. 2 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>22/03/2024</td> <td>2</td> <td>9</td> <td>9</td> <td>Guía No. 3 de laboratorio</td>
+		<td>22/03/2024</td> <td>2</td> <td>9</td> <td>9</td> <td>Socialización de guía No. 3 de laboratorio</td>
 	</tr>
 	<tr>
 		<td>29/03/2024</td> <td></td> <td></td> <td></td> <td>SEMANA SANTA</td>
@@ -122,7 +122,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>12/04/2024</td> <td>2</td> <td>11</td> <td>11</td> <td><br>Entrega de guía No. 3 de laboratorio</td>
 	</tr><!--semana de parciales del segundo corte-->
 	<tr>
-		<td>19/04/2024</td> <td>2</td> <td>12</td> <td>12</td> <td>Guía No. 4 de laboratorio</td>
+		<td>19/04/2024</td> <td>2</td> <td>12</td> <td>12</td> <td>Socialización de guía No. 4 de laboratorio</td>
 	</tr><!--última semana de registro de notas del primer corte-->
 
 </table>
@@ -140,7 +140,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>29/04/2024</td> <td>2</td> <td>14</td> <td>14</td> <td>Entrega de guía No. 4 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>06/05/2024</td> <td>2</td> <td>15</td> <td>15</td> <td>Guía No. 5 de laboratorio</td>
+		<td>06/05/2024</td> <td>2</td> <td>15</td> <td>15</td> <td>Socialización de guía No. 5 de laboratorio</td>
 	</tr>
 	<tr>
 		<td>13/05/2024</td> <td>2</td> <td>16</td> <td>16</td> <td>FESTIVO</td>
@@ -164,7 +164,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>26/04/2024</td> <td>2</td> <td>13</td> <td>13</td> <td>Desarrollo de guía No. 4 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>03/05/2024</td> <td>2</td> <td>14</td> <td>14</td> <td>Guía No. 5 de laboratorio</td>
+		<td>03/05/2024</td> <td>2</td> <td>14</td> <td>14</td> <td>Socialización de guía No. 5 de laboratorio</td>
 	</tr>
 	<tr>
 		<td>10/05/2024</td> <td>2</td> <td>15</td> <td>15</td> <td>Desarrollo de guía No. 5 de laboratorio</td>
