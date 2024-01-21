@@ -201,22 +201,22 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 	<tr>
 		<td>Guía No. 2 de laboratorio</td>
 		<td>3%</td>
-		<td>26/02/2024<br>04/03/2024</td>
+		<td>04/03/2024<br>11/03/2024</td>
 	</tr>
 	<tr>
 		<td>Guía No. 3 de laboratorio</td>
 		<td>6%</td>
-		<td>18/03/2024<br>01/04/2024</td>
+		<td>01/04/2024<br>08/04/2024</td>
 	</tr>
 	<tr>
 		<td>Guía No. 4 de laboratorio</td>
 		<td>7.5%</td>
-		<td>08/04/2024<br>15/04/2024</td>
+		<td>22/04/2024<br>29/04/2024</td>
 	</tr>
 	<tr>
 		<td>Guía No. 5 de laboratorio</td>
 		<td>7.5%</td>
-		<td>29/04/2024<br>06/05/2024<br>20/05/2024</td>
+		<td>20/05/2024<br>27/05/2024</td>
 	</tr>
 </table>
 
@@ -238,22 +238,22 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 	<tr>
 		<td>Guía No. 2 de laboratorio</td>
 		<td>3%</td>
-		<td>01/03/2024<br>08/03/2024</td>
+		<td>08/03/2024<br>15/03/2024</td>
 	</tr>
 	<tr>
 		<td>Guía No. 3 de laboratorio</td>
 		<td>6%</td>
-		<td>22/03/2024<br>05/04/2024</td>
+		<td>05/04/2024<br>12/04/2024</td>
 	</tr>
 	<tr>
 		<td>Guía No. 4 de laboratorio</td>
 		<td>7.5%</td>
-		<td>12/04/2024<br>19/04/2024</td>
+		<td>26/04/2024<br>03/05/2024</td>
 	</tr>
 	<tr>
 		<td>Guía No. 5 de laboratorio</td>
 		<td>7.5%</td>
-		<td>03/05/2024<br>10/05/2024<br>24/05/2024</td>
+		<td>17/05/2024<br>24/05/2024<br>31/05/2024</td>
 	</tr>
 </table>
 
