@@ -280,8 +280,8 @@ Nota del curso = (0.21)*NotaCorte1 + (0.21)*NotaCorte2 + (0.28)*NotaCorte3 + (**
 
 <h4>Observaciones de reglamento estudiantil</h4>
 <ul>
-	<li> Revisión sobre la calificación solamente dentro de los dias establecidos en el reglamento estudiantil </li>
-	<li> Con el 10% de las fallas se pierde la materia</li>
+	<li> Revisión sobre la calificación solamente dentro de los dias (3) establecidos en el reglamento estudiantil </li>
+	<li> Con el 20% de las fallas se pierde la materia</li>
 	<li> Las ausencias a clases donde se saque una calificación se debe presentar la excusa familiar o laboral en la dirección del programa</li>
 </ul>
 
