@@ -173,7 +173,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>17/05/2024</td> <td>2</td> <td>16</td> <td>16</td> <td>Desarrollo de guía No. 5 de laboratorio</td>
 	</tr><!--Finalización de clases-->
 	<tr>
-		<td>24/05/2024</td> <td>2</td> <td>17</td> <td>17</td> <td>Desarrollo guía No. 5 de laboratorio</td>
+		<td>24/05/2024</td> <td>2</td> <td>17</td> <td>17</td> <td>Desarrollo de guía No. 5 de laboratorio</td>
 	</tr>
 	<tr>
 		<td>31/05/2024</td> <td>2</td> <td>18</td> <td>18</td> <td>Entrega de guía No. 5 de laboratorio y entrega de notas finales</td>
