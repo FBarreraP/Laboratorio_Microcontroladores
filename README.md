@@ -23,7 +23,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>22/01/2024</td> <td>2</td> <td>1</td> <td>1</td> <td>Presentación de la materia</td>
 	</tr>
 	<tr>
-		<td>29/01/2024</td> <td>2</td> <td>2</td> <td>2</td> <td>Tutorial word para descargar el Keil</td>
+		<td>29/01/2024</td> <td>2</td> <td>2</td> <td>2</td> <td>Tutorial word para descargar Keil</td>
 	</tr>
 	<tr>
 		<td>05/02/2024</td> <td>2</td> <td>3</td> <td>3</td> <td>Guía No. 1 de laboratorio</td>
@@ -53,7 +53,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>26/01/2024</td> <td>2</td> <td>1</td> <td>1</td> <td>Presentación de la materia</td>
 	</tr>
 	<tr>
-		<td>02/02/2024</td> <td>2</td> <td>2</td> <td>2</td> <td>Tutorial word para descargar el Keil</td>
+		<td>02/02/2024</td> <td>2</td> <td>2</td> <td>2</td> <td>Tutorial word para descargar Keil</td>
 	</tr>
 	<tr>
 		<td>09/02/2024</td> <td>2</td> <td>3</td> <td>3</td> <td>Guía No. 1 de laboratorio</td>
