@@ -3,7 +3,7 @@ Materia: Laboratorio de micros 🏧<br>
 Universidad: UMNG 🏫<br>
 Año: 2024 📅</h1><br>
 
-El laboratorio de micros está enfocado al desarrollo de aplicaciones con los periféricos de la STM32, operadas por medio de una interfaz gráfica con comunicación UART en Matlab o Python.
+El laboratorio de micros está enfocado al desarrollo de aplicaciones con los periféricos de la STM32, operadas por medio de una interfaz gráfica con comunicación UART en Matlab o Python. Este curso tiene un valor del 30% en la nota final del curso.
 
 <h1>Aula 1</h1>
 
