@@ -341,7 +341,7 @@ Nota del curso = (0.21)*NotaCorte1 + (0.21)*NotaCorte2 + (0.28)*NotaCorte3 + (**
     <img src="https://www.ardobot.co/pub/media/catalog/product/cache/2641e33458f1ae4a696b47b0da974426/l/2/l2998neco.jpg" alt="L298" caption="Hola"/>
     <li> Encoder incremental</li>
     <img src="https://http2.mlstatic.com/D_NQ_NP_731207-MEC31981852736_082019-O.webp" alt="encoder arduino" caption="Hola"/>
-    <!-->
+    <!--
 	<li> Sensor o actuador I2C (IMU (MPU6050, MPU9250), PCA9685, RTC (DS1307, DS3231), INA219, EEPROMs (24lc04, 24lc64,  24lc6128,  24lc256,  24lc512 24lc1025)</li>
     <ol type="I">
         <li>IMU (MPU6050 y MPU9250)</li>
@@ -355,5 +355,5 @@ Nota del curso = (0.21)*NotaCorte1 + (0.21)*NotaCorte2 + (0.28)*NotaCorte3 + (**
         <li>EEPROMS 24lcXX</li>
         <img src="https://www.kanda.com/blog/wp-content/uploads/serial-eeproms.jpg" alt="EEPROMs" caption="Hola"/>
     </ol>
-	<-->
+	-->
 </ul>
