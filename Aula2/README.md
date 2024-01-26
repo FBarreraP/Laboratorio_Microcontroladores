@@ -17,3 +17,7 @@ En esta clase se presenta un instructivo de instalación en Windows del software
 
 1. Crear un nuevo proyecto seleccionando la opción "New Project" en la pestaña "Project"
 2. 
+
+Otra información de apoyo puede ser encontrada en: <a>https://os.mbed.com/platforms/ST-Nucleo-F303K8/</a>
+<li> Pines STM32F303K8</li>
+    <img src="https://os.mbed.com/media/uploads/bcostm/nucleo_f303k8_2017_10_10.png" alt="STM32F303K8" caption="Hola"/>
