@@ -48,8 +48,8 @@ int main(){
 	GPIOD->MODER |= (1<<26); //pin PD13(bits 27:26) as Output (01)
 	//Step 3
 	GPIOD->OTYPER &= ~(1<<13);  // bit 13=0 --> Output push pull (HIGH or LOW)
-	GPIOD->OSPEEDR |= ((1<<27)|(1<<26));//(11<<26)  // Pin PD13 (bits 27:26) as High Speed (11)
-	GPIOD->PUPDR &= ~((1<<27)|(1<<26)); //~(11<<26) // Pin PD13 (bits 27:26) are 0:0 --> no pull up or pull down
+	GPIOD->OSPEEDR |= ((1<<27)|(1<<26));//(0b11<<26)  // Pin PD13 (bits 27:26) as High Speed (11)
+	GPIOD->PUPDR &= ~((1<<27)|(1<<26)); //~(0b11<<26) // Pin PD13 (bits 27:26) are 0:0 --> no pull up or pull down
 	
 	while(1){
 		//GPIOD->BSRR |= (1<<13); // Set the Pin PD13
