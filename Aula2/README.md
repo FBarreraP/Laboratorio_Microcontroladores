@@ -18,13 +18,13 @@ En esta clase se presenta un instructivo de instalación en Windows del software
 1. Crear un nuevo proyecto seleccionando la opción "New Project" en la pestaña "Project"
 2. 
 
+```cpp
+
 //Ejemplo Hola mundo con led de usuario de la tarjeta
-//Fabián Barrera Prieto
+//MSc. Fabián Barrera Prieto
 //UMNG
 //STM32F303K8T6
 //operation 'or' (|) for set bit and operation 'and' (&) for clear bit
-
-```C++
 
 #include <stdio.h>
 #include "stm32f3xx.h"
@@ -62,6 +62,13 @@ int main(){
 
 }
 ```
+
+<h3>Descargar el software STM32 ST-LINK utility</h3>
+
+1. Descargar el software en el siguiente link: https://www.st.com/en/development-tools/stsw-link004.html
+2. Instalar el software a través del proceso de instalación 
+
+
 
 Otra información de apoyo puede ser encontrada en: <a>https://os.mbed.com/platforms/ST-Nucleo-F303K8/</a>
 <li> Pines STM32F303K8</li>

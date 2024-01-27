@@ -32,10 +32,10 @@ int main(){
 	while(1){
 		//GPIOD->BSRR |= (1<<13); // Set the Pin PD13
 		GPIOD->ODR |= 1<<13; // Set the Pin PD13
-		Delay(1000000);
+		Delay(10000000);
 		//GPIOD->BSRR |= (1<<29); // Reset the Pin PD13
 		GPIOD->ODR &= ~(1<<13); // Reset the Pin PD13
-		Delay(1000000);
+		Delay(10000000);
 	}
 
 }
