@@ -17,7 +17,7 @@ Library Manager: ArmAr.exe V6.21
 Hex Converter:   FromElf.exe V6.21
 CPU DLL:         SARMCM3.DLL V5.39.0.0
 Dialog DLL:      DCM.DLL V1.17.5.0
-Target DLL:      UL2CM3.DLL V1.164.9.0
+Target DLL:      STLink\ST-LINKIII-KEIL_SWO.dll V3.2.0.0
 Dialog DLL:      TCM.DLL V1.56.4.0
  
 <h2>Project:</h2>
@@ -62,63 +62,78 @@ main.cpp(10): note: declare 'static' if the function is not intended to be used 
    10 | void Delay (uint32_t time)
       | ^
       | static 
-main.cpp(24): warning: use of old-style cast [-Wold-style-cast]
-   24 |         RCC->AHBENR |= (1<<20);  // Enable the GPIOD clock (user led LD3 is connected to D13)
+main.cpp(13): warning: comparison of integers of different signs: 'int' and 'uint32_t' (aka 'unsigned int') [-Wsign-compare]
+   13 |         for (int t=0;t<time;t++);
+      |                      ~^~~~~
+main.cpp(26): warning: use of old-style cast [-Wold-style-cast]
+   26 |         RCC->AHBENR |= (1<<18);  // Enable the GPIOB clock (user led LD3 is connected to PB_3)
       |         ^~~
 C:/Users/LENOVO/AppData/Local/Arm/Packs/Keil/STM32F3xx_DFP/2.2.2/Drivers/CMSIS/Device/ST/STM32F3xx/Include/stm32f303x8.h(760): note: expanded from macro 'RCC'
   760 | #define RCC                 ((RCC_TypeDef *) RCC_BASE)
       |                              ^               ~~~~~~~~
-main.cpp(26): warning: use of old-style cast [-Wold-style-cast]
-   26 |         GPIOD->MODER |= (1<<26); //pin PD13(bits 27:26) as Output (01)
-      |         ^~~~~
-C:/Users/LENOVO/AppData/Local/Arm/Packs/Keil/STM32F3xx_DFP/2.2.2/Drivers/CMSIS/Device/ST/STM32F3xx/Include/stm32f303x8.h(768): note: expanded from macro 'GPIOD'
-  768 | #define GPIOD               ((GPIO_TypeDef *) GPIOD_BASE)
-      |                              ^                ~~~~~~~~~~
 main.cpp(28): warning: use of old-style cast [-Wold-style-cast]
-   28 |         GPIOD->OTYPER &= ~(1<<13);  // bit 13=0 --> Output push pull (HIGH or LOW)
+   28 |         GPIOB->MODER &= ~(0b11<<6); //clear (00) pin PB_3(bits 7:6)  
       |         ^~~~~
-C:/Users/LENOVO/AppData/Local/Arm/Packs/Keil/STM32F3xx_DFP/2.2.2/Drivers/CMSIS/Device/ST/STM32F3xx/Include/stm32f303x8.h(768): note: expanded from macro 'GPIOD'
-  768 | #define GPIOD               ((GPIO_TypeDef *) GPIOD_BASE)
+C:/Users/LENOVO/AppData/Local/Arm/Packs/Keil/STM32F3xx_DFP/2.2.2/Drivers/CMSIS/Device/ST/STM32F3xx/Include/stm32f303x8.h(766): note: expanded from macro 'GPIOB'
+  766 | #define GPIOB               ((GPIO_TypeDef *) GPIOB_BASE)
       |                              ^                ~~~~~~~~~~
+main.cpp(28): warning: binary integer literals are a C++14 extension [-Wc++14-binary-literal]
+   28 |         GPIOB->MODER &= ~(0b11<<6); //clear (00) pin PB_3(bits 7:6)  
+      |                           ^
 main.cpp(28): warning: implicit conversion changes signedness: 'int' to 'uint32_t' (aka 'unsigned int') [-Wsign-conversion]
-   28 |         GPIOD->OTYPER &= ~(1<<13);  // bit 13=0 --> Output push pull (HIGH or LOW)
-      |                       ~~ ^~~~~~~~
+   28 |         GPIOB->MODER &= ~(0b11<<6); //clear (00) pin PB_3(bits 7:6)  
+      |                      ~~ ^~~~~~~~~~
 main.cpp(29): warning: use of old-style cast [-Wold-style-cast]
-   29 |         GPIOD->OSPEEDR |= ((1<<27)|(1<<26));//(11<<26)  // Pin PD13 (bits 27:26) as High Speed (11)
+   29 |         GPIOB->MODER |= (1<<6); //pin PB_3(bits 7:6) as Output (01)
       |         ^~~~~
-C:/Users/LENOVO/AppData/Local/Arm/Packs/Keil/STM32F3xx_DFP/2.2.2/Drivers/CMSIS/Device/ST/STM32F3xx/Include/stm32f303x8.h(768): note: expanded from macro 'GPIOD'
-  768 | #define GPIOD               ((GPIO_TypeDef *) GPIOD_BASE)
+C:/Users/LENOVO/AppData/Local/Arm/Packs/Keil/STM32F3xx_DFP/2.2.2/Drivers/CMSIS/Device/ST/STM32F3xx/Include/stm32f303x8.h(766): note: expanded from macro 'GPIOB'
+  766 | #define GPIOB               ((GPIO_TypeDef *) GPIOB_BASE)
       |                              ^                ~~~~~~~~~~
-main.cpp(30): warning: use of old-style cast [-Wold-style-cast]
-   30 |         GPIOD->PUPDR &= ~((1<<27)|(1<<26)); //~(11<<26) // Pin PD13 (bits 27:26) are 0:0 --> no pull up or pull down
+main.cpp(31): warning: use of old-style cast [-Wold-style-cast]
+   31 |         GPIOB->OTYPER &= ~(1<<3);  // bit 3=0 --> Output push pull (HIGH or LOW)
       |         ^~~~~
-C:/Users/LENOVO/AppData/Local/Arm/Packs/Keil/STM32F3xx_DFP/2.2.2/Drivers/CMSIS/Device/ST/STM32F3xx/Include/stm32f303x8.h(768): note: expanded from macro 'GPIOD'
-  768 | #define GPIOD               ((GPIO_TypeDef *) GPIOD_BASE)
+C:/Users/LENOVO/AppData/Local/Arm/Packs/Keil/STM32F3xx_DFP/2.2.2/Drivers/CMSIS/Device/ST/STM32F3xx/Include/stm32f303x8.h(766): note: expanded from macro 'GPIOB'
+  766 | #define GPIOB               ((GPIO_TypeDef *) GPIOB_BASE)
       |                              ^                ~~~~~~~~~~
-main.cpp(30): warning: implicit conversion changes signedness: 'int' to 'uint32_t' (aka 'unsigned int') [-Wsign-conversion]
-   30 |         GPIOD->PUPDR &= ~((1<<27)|(1<<26)); //~(11<<26) // Pin PD13 (bits 27:26) are 0:0 --> no pull up or pull down
-      |                      ~~ ^~~~~~~~~~~~~~~~~~
-main.cpp(34): warning: use of old-style cast [-Wold-style-cast]
-   34 |                 GPIOD->ODR |= 1<<13; // Set the Pin PD13
-      |                 ^~~~~
-C:/Users/LENOVO/AppData/Local/Arm/Packs/Keil/STM32F3xx_DFP/2.2.2/Drivers/CMSIS/Device/ST/STM32F3xx/Include/stm32f303x8.h(768): note: expanded from macro 'GPIOD'
-  768 | #define GPIOD               ((GPIO_TypeDef *) GPIOD_BASE)
+main.cpp(31): warning: implicit conversion changes signedness: 'int' to 'uint32_t' (aka 'unsigned int') [-Wsign-conversion]
+   31 |         GPIOB->OTYPER &= ~(1<<3);  // bit 3=0 --> Output push pull (HIGH or LOW)
+      |                       ~~ ^~~~~~~
+main.cpp(32): warning: use of old-style cast [-Wold-style-cast]
+   32 |         GPIOB->OSPEEDR |= ((1<<7)|(1<<6));//(0b11<<26)  // Pin PB_3 (bits 7:6) as High Speed (11)
+      |         ^~~~~
+C:/Users/LENOVO/AppData/Local/Arm/Packs/Keil/STM32F3xx_DFP/2.2.2/Drivers/CMSIS/Device/ST/STM32F3xx/Include/stm32f303x8.h(766): note: expanded from macro 'GPIOB'
+  766 | #define GPIOB               ((GPIO_TypeDef *) GPIOB_BASE)
       |                              ^                ~~~~~~~~~~
+main.cpp(33): warning: use of old-style cast [-Wold-style-cast]
+   33 |         GPIOB->PUPDR &= ~((1<<7)|(1<<6)); //~(0b11<<26) // Pin PB_3 (bits 7:6) are 0:0 --> no pull up or pull down
+      |         ^~~~~
+C:/Users/LENOVO/AppData/Local/Arm/Packs/Keil/STM32F3xx_DFP/2.2.2/Drivers/CMSIS/Device/ST/STM32F3xx/Include/stm32f303x8.h(766): note: expanded from macro 'GPIOB'
+  766 | #define GPIOB               ((GPIO_TypeDef *) GPIOB_BASE)
+      |                              ^                ~~~~~~~~~~
+main.cpp(33): warning: implicit conversion changes signedness: 'int' to 'uint32_t' (aka 'unsigned int') [-Wsign-conversion]
+   33 |         GPIOB->PUPDR &= ~((1<<7)|(1<<6)); //~(0b11<<26) // Pin PB_3 (bits 7:6) are 0:0 --> no pull up or pull down
+      |                      ~~ ^~~~~~~~~~~~~~~~
 main.cpp(37): warning: use of old-style cast [-Wold-style-cast]
-   37 |                 GPIOD->ODR &= ~(1<<13); // Reset the Pin PD13
+   37 |                 GPIOB->ODR |= 1<<3; // Set the Pin PB_3
       |                 ^~~~~
-C:/Users/LENOVO/AppData/Local/Arm/Packs/Keil/STM32F3xx_DFP/2.2.2/Drivers/CMSIS/Device/ST/STM32F3xx/Include/stm32f303x8.h(768): note: expanded from macro 'GPIOD'
-  768 | #define GPIOD               ((GPIO_TypeDef *) GPIOD_BASE)
+C:/Users/LENOVO/AppData/Local/Arm/Packs/Keil/STM32F3xx_DFP/2.2.2/Drivers/CMSIS/Device/ST/STM32F3xx/Include/stm32f303x8.h(766): note: expanded from macro 'GPIOB'
+  766 | #define GPIOB               ((GPIO_TypeDef *) GPIOB_BASE)
       |                              ^                ~~~~~~~~~~
-main.cpp(37): warning: implicit conversion changes signedness: 'int' to 'uint32_t' (aka 'unsigned int') [-Wsign-conversion]
-   37 |                 GPIOD->ODR &= ~(1<<13); // Reset the Pin PD13
-      |                            ~~ ^~~~~~~~
-15 warnings generated.
+main.cpp(40): warning: use of old-style cast [-Wold-style-cast]
+   40 |                 GPIOB->ODR &= ~(1<<3); // Reset the Pin PB_3
+      |                 ^~~~~
+C:/Users/LENOVO/AppData/Local/Arm/Packs/Keil/STM32F3xx_DFP/2.2.2/Drivers/CMSIS/Device/ST/STM32F3xx/Include/stm32f303x8.h(766): note: expanded from macro 'GPIOB'
+  766 | #define GPIOB               ((GPIO_TypeDef *) GPIOB_BASE)
+      |                              ^                ~~~~~~~~~~
+main.cpp(40): warning: implicit conversion changes signedness: 'int' to 'uint32_t' (aka 'unsigned int') [-Wsign-conversion]
+   40 |                 GPIOB->ODR &= ~(1<<3); // Reset the Pin PB_3
+      |                            ~~ ^~~~~~~
+19 warnings generated.
 compiling main.cpp...
 linking...
-Program Size: Code=576 RO-data=408 RW-data=0 ZI-data=1632  
+Program Size: Code=596 RO-data=408 RW-data=0 ZI-data=1632  
 FromELF: creating hex file...
-".\Objects\HolaMundo.axf" - 0 Error(s), 18 Warning(s).
+".\Objects\HolaMundo.axf" - 0 Error(s), 22 Warning(s).
 
 <h2>Software Packages used:</h2>
 
@@ -144,10 +159,10 @@ Package Vendor: Keil
    * Component: ARM::CMSIS:CORE@6.0.0
 
    * Component: Keil::Device&Standalone:Startup@1.11.3
+      Source file:   MDK/Device/Source/ARM/STM32F3xx_OPT.s
       Include file:  Drivers/CMSIS/Device/ST/STM32F3xx/Include/stm32f3xx.h
       Source file:   Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/arm/startup_stm32f303x8.s
       Source file:   Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/system_stm32f3xx.c
-      Source file:   MDK/Device/Source/ARM/STM32F3xx_OPT.s
 Build Time Elapsed:  00:00:02
 </pre>
 </body>
