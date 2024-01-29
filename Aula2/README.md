@@ -70,11 +70,26 @@ int main(){
 
 <h3>Descargar el software STM32 ST-LINK utility</h3>
 
-1. Descargar el software en el siguiente link: https://www.st.com/en/development-tools/stsw-link004.html y los drivers https://www.st.com/en/development-tools/stsw-link009.html?dl=redirect
-2. Instalar el software a través del proceso de instalación 
+1. Descargar el software en el siguiente link: https://www.st.com/en/development-tools/stsw-link004.html y los drivers para la tarjeta en https://www.st.com/en/development-tools/stsw-link009.html?dl=redirect
+2. Instalar el software a través del proceso de instalación
 
+<h3>Configurar el software STM32 ST-LINK utility en Keil</h3>
 
+1. Seleccionar la opción 'Options for Target'
+2. En la pestaña 'Output' seleccionar la casilla 'Create HEX File'
+3. En la pestaña 'Debug' en la opción 'use', entre las opciones que se despliegan, seleccionar 'ST-LINK Debugger' y luego dar click en la opción 'Settings'
+4. Verificar que la tarjeta sea reconocida, debe aparecer el mensaje: 'ARM Core Sight SW-DP ...' en el espacio SWDIO
+5. En la misma pestaña 'Debug' en la parte inferior 'Debug' de la lista desplegable, seleccionar 'under Reset'
+6. En la pestaña 'Flash Download' seleccionar todas las casillas cuadradas, incluyendo la opción 'Reset and Run'
+7. Dar click en OK para aceptar las modificaciones previamente mencionadas
+8. Cargar el proyecto en la tarjeta, dando click en la opción 'Download' 
 
-Otra información de apoyo puede ser encontrada en: <a>https://os.mbed.com/platforms/ST-Nucleo-F303K8/</a>
+<h3>Depurar código en Keil</h3>
+
+1. Seleccionar la opción 'Start/Stop Debug Session'
+2. Para controlar la depuración del código, se deben utilizar los botones que aparecen en la parte izquierda como control de depuración
+
+Otra información de apoyo puede ser encontrada en: https://os.mbed.com/platforms/ST-Nucleo-F303K8/
+
 <li> Pines STM32F303K8</li>
     <img src="https://os.mbed.com/media/uploads/bcostm/nucleo_f303k8_2017_10_10.png" alt="STM32F303K8" caption="Hola"/>
