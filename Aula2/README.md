@@ -20,7 +20,7 @@ En esta clase se presenta un instructivo de instalación en Windows del software
 3. Seleccionar el dispositivo relacionado al chip (ej: STM32F303K8tT6)
 4. En la opción de 'CMSIS' seleccionar la casilla CORE y en la opción 'device' seleccionar la casilla StartUp. En algunas tarjetas (ej: STM32F303K8tT6) verificar que en la misma opción 'device' esté la opción standalone
 5. Crear un archivo .cpp y añadirlo al proyecto en la carpeta 'Source Group 1'
-6. Posteriormente a escribir el código en C++, limpiar y compilar el proyecto en la opción 'clean and rebuilt'
+6. Posteriormente a escribir el código en C++, limpiar y compilar el proyecto en la opción 'rebuild'
 
 ```cpp
 //Ejemplo Hola mundo con led de usuario de la tarjeta
