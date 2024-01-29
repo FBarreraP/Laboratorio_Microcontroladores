@@ -89,7 +89,8 @@ int main(){
 1. Seleccionar la opción 'Start/Stop Debug Session'
 2. Para controlar la depuración del código, se deben utilizar los botones que aparecen en la parte izquierda como control de la herramienta <i>debugger</i>
 
+<h3>Información de apoyo</h3>
+
 Otra información de apoyo puede ser encontrada en: https://os.mbed.com/platforms/ST-Nucleo-F303K8/
 
-<li> Pines STM32F303K8</li>
-    <img src="https://os.mbed.com/media/uploads/bcostm/nucleo_f303k8_2017_10_10.png" alt="STM32F303K8" caption="Hola"/>
+<img src="https://os.mbed.com/media/uploads/bcostm/nucleo_f303k8_2017_10_10.png" alt="STM32F303K8" caption="Hola"/>
