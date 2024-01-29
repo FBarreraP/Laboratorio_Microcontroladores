@@ -87,7 +87,7 @@ int main(){
 <h3>Depurar código en Keil</h3>
 
 1. Seleccionar la opción 'Start/Stop Debug Session'
-2. Para controlar la depuración del código, se deben utilizar los botones que aparecen en la parte izquierda como control de depuración
+2. Para controlar la depuración del código, se deben utilizar los botones que aparecen en la parte izquierda como control de la herramienta <i>debugger</i>
 
 Otra información de apoyo puede ser encontrada en: https://os.mbed.com/platforms/ST-Nucleo-F303K8/
 
