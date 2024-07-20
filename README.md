@@ -71,7 +71,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>11/11/2024</td> <td>2</td> <td>16</td> <td>16</td> <td>FESTIVO</td>
 	</tr><!--Finalización de clases-->
 	<tr>
-		<td>18/05/2024</td> <td>2</td> <td>17</td> <td>17</td> <td>Entrega de guías No. 4 y 5 de laboratorio y entrega de notas finales</td>
+		<td>18/11/2024</td> <td>2</td> <td>17</td> <td>17</td> <td>Entrega de guías No. 4 y 5 de laboratorio y entrega de notas finales</td>
 	</tr><!--semana de examenes finales-->
 </table>
 
@@ -115,7 +115,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>04/10/2024</td> <td>2</td> <td>11</td> <td>11</td> <td>Entrega de guía No. 3 de laboratorio</td>
 	</tr><!--semana de parciales del segundo corte-->
 	<tr>
-		<td>11/10/2024</td> <td></td> <td></td> <td></td> <td><br>SEMANA DE RECESO </td>
+		<td>11/10/2024</td> <td></td> <td></td> <td></td> <td>SEMANA DE RECESO </td>
 	</tr>
 	<tr>
 		<td>18/10/2024</td> <td>2</td> <td>12</td> <td>12</td> <td>Socialización de guía No. 4 de laboratorio</td>
@@ -139,7 +139,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 
 <h3>MÉTODOS DE EVALUACIÓN ✍️</h3>
 
-<h4>Grupo MEC D</h4>
+<h4>MEC D</h4>
 
 <table>
 	<tr>
@@ -151,32 +151,32 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 	<tr>
 		<td>Guía No. 1 de laboratorio</td>
 		<td>6%</td>
-		<td>12/02/2024<br>19/02/2024</td>
+		<td>12/08/2024<br>26/08/2024</td>
 		<td rowspan="5">Presencial</td>
 	</tr>
 	<tr>
 		<td>Guía No. 2 de laboratorio</td>
 		<td>3%</td>
-		<td>04/03/2024<br>11/03/2024</td>
+		<td>09/09/2024<br>16/09/2024</td>
 	</tr>
 	<tr>
 		<td>Guía No. 3 de laboratorio</td>
 		<td>6%</td>
-		<td>01/04/2024<br>08/04/2024</td>
+		<td>30/09/2024<br>21/10/2024</td>
 	</tr>
 	<tr>
 		<td>Guía No. 4 de laboratorio</td>
 		<td>7.5%</td>
-		<td>22/04/2024<br>29/04/2024</td>
+		<td>18/11/2024</td>
 	</tr>
 	<tr>
 		<td>Guía No. 5 de laboratorio</td>
 		<td>7.5%</td>
-		<td>20/05/2024<br>27/05/2024</td>
+		<td>18/11/2024</td>
 	</tr>
 </table>
 
-<h4>Grupo MEC C</h4>
+<h4>MEC C</h4>
 
 <table>
 	<tr>
@@ -188,28 +188,28 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 	<tr>
 		<td>Guía No. 1 de laboratorio</td>
 		<td>6%</td>
-		<td>16/02/2024<br>23/02/2024</td>
+		<td>16/08/2024<br>23/08/2024</td>
 		<td rowspan="5">Presencial</td>
 	</tr>
 	<tr>
 		<td>Guía No. 2 de laboratorio</td>
 		<td>3%</td>
-		<td>08/03/2024<br>15/03/2024</td>
+		<td>06/09/2024<br>13/09/2024</td>
 	</tr>
 	<tr>
 		<td>Guía No. 3 de laboratorio</td>
 		<td>6%</td>
-		<td>05/04/2024<br>12/04/2024</td>
+		<td>27/09/2024<br>04/10/2024</td>
 	</tr>
 	<tr>
 		<td>Guía No. 4 de laboratorio</td>
 		<td>7.5%</td>
-		<td>26/04/2024<br>03/05/2024</td>
+		<td>25/10/2024<br>01/11/2024</td>
 	</tr>
 	<tr>
 		<td>Guía No. 5 de laboratorio</td>
 		<td>7.5%</td>
-		<td>17/05/2024<br>24/05/2024<br>31/05/2024</td>
+		<td>15/11/2024<br>22/11/2024</td>
 	</tr>
 </table>
 
