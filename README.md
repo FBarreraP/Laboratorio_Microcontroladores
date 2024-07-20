@@ -13,172 +13,128 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 
 <h3>TEMAS 🤓</h3>
 
-<h4>Primer corte MEC D</h4>
+<h4>MEC D</h4>
 
 <table>
 	<tr>
 		<td>Fecha</td> <td>Horas</td> <td>Clase</td> <td>Semana</td> <td>Actividades</td>
 	</tr>
 	<tr>
-		<td>22/01/2024</td> <td>2</td> <td>1</td> <td>1</td> <td>Presentación de la materia</td>
+		<td>22/07/2024</td> <td>2</td> <td>1</td> <td>1</td> <td>Presentación de la materia</td>
 	</tr>
 	<tr>
-		<td>29/01/2024</td> <td>2</td> <td>2</td> <td>2</td> <td>Tutorial word para descargar Keil</td>
+		<td>29/07/2024</td> <td>2</td> <td>2</td> <td>2</td> <td>Tutorial word para descargar Keil</td>
 	</tr>
 	<tr>
-		<td>05/02/2024</td> <td>2</td> <td>3</td> <td>3</td> <td>Socialización de guía No. 1 de laboratorio</td>
+		<td>05/08/2024</td> <td>2</td> <td>3</td> <td>3</td> <td>Socialización de guía No. 1 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>12/02/2024</td> <td>2</td> <td>4</td> <td>4</td> <td>Desarrollo de guía No. 1 de laboratorio</td>
+		<td>12/08/2024</td> <td>2</td> <td>4</td> <td>4</td> <td>Desarrollo de guía No. 1 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>19/02/2024</td> <td>2</td> <td>5</td> <td>5</td> <td>Entrega de guía No. 1 de laboratorio</td>
+		<td>19/08/2024</td> <td>2</td> <td>5</td> <td>5</td> <td>FESTIVO </td>
 	</tr>
 	<tr>
-		<td>26/02/2024</td> <td>2</td> <td>6</td> <td>6</td> <td>Socialización de Guía No. 2 de laboratorio</td><!--semana de parciales del primer corte-->
-	</tr>
+		<td>26/08/2024</td> <td>2</td> <td>6</td> <td>6</td> <td>Entrega de guía No. 1 de laboratorio </td>
+	</tr><!--semana de parciales del primer corte-->
 	<tr>
-		<td>04/03/2024</td> <td>2</td> <td>7</td> <td>7</td> <td>Desarrollo de guía No. 2 de laboratorio</td>
+		<td>02/09/2024</td> <td>2</td> <td>7</td> <td>7</td> <td>Socialización de Guía No. 2 de laboratorio </td>
 	</tr><!--última semana de registro de notas del primer corte-->
-
-</table>
-
-<h4>Primer corte MEC C</h4>
-
-<table>
 	<tr>
-		<td>Fecha</td> <td>Horas</td> <td>Clase</td> <td>Semana</td> <td>Actividades</td>
+		<td>09/09/2024</td> <td>2</td> <td>8</td> <td>8</td> <td>Desarrollo de guía No. 2 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>26/01/2024</td> <td>2</td> <td>1</td> <td>1</td> <td>Presentación de la materia</td>
+		<td>16/09/2024</td> <td>2</td> <td>9</td> <td>9</td> <td>Entrega de guía No. 2 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>02/02/2024</td> <td>2</td> <td>2</td> <td>2</td> <td>Tutorial word para descargar Keil</td>
+		<td>23/09/2024</td> <td>2</td> <td>10</td> <td>10</td> <td>Socialización de guía No. 3 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>09/02/2024</td> <td>2</td> <td>3</td> <td>3</td> <td>Socialización de guía No. 1 de laboratorio</td>
+		<td>30/09/2024</td> <td>2</td> <td>11</td> <td>11</td> <td>Desarrollo de guía No. 3 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>16/02/2024</td> <td>2</td> <td>4</td> <td>4</td> <td>Desarrollo guía No. 1 de laboratorio</td>
+		<td>07/10/2024</td> <td></td> <td></td> <td></td> <td>SEMANA DE RECESO</td>
 	</tr>
 	<tr>
-		<td>23/02/2024</td> <td>2</td> <td>5</td> <td>5</td> <td>Entrega guía No. 1 de laboratorio</td><!--semana de parciales del primer corte-->
-	</tr>
-	<tr>
-		<td>01/03/2024</td> <td>2</td> <td>6</td> <td>6</td> <td>Socialización de guía No. 2 de laboratorio</td>
-	</tr>
-	<tr>
-		<td>08/03/2024</td> <td>2</td> <td>7</td> <td>7</td> <td>Desarrollo de guía No. 2 de laboratorio</td>
-	</tr><!--última semana de registro de notas del primer corte-->
-
-</table>
-
-<h4>Segundo corte MEC D</h4>
-
-<table>
-	<tr>
-		<td>Fecha</td> <td>Horas</td> <td>Clase</td> <td>Semana</td> <td>Actividades</td>
-	</tr>
-	<tr>
-		<td>11/03/2024</td> <td>2</td> <td>8</td> <td>8</td> <td>Entrega de guía No. 2 de laboratorio</td>
-	</tr>
-	<tr>
-		<td>18/03/2024</td> <td>2</td> <td>9</td> <td>9</td> <td>Socialización de guía No. 3 de laboratorio</td>
-	</tr>
-	<tr>
-		<td>25/03/2024</td> <td></td> <td></td> <td></td> <td>SEMANA SANTA</td>
-	</tr>
-	<tr>
-		<td>01/04/2024</td> <td>2</td> <td>10</td> <td>10</td> <td>Desarrollo de guía No. 3 de laboratorio</td>
-	</tr>
-	<tr>
-		<td>08/04/2024</td> <td>2</td> <td>11</td> <td>11</td> <td><br>Entrega guía No. 3 de laboratorio</td>
+		<td>14/10/2024</td> <td>2</td> <td>12</td> <td>12</td> <td>FESTIVO</td>
 	</tr><!--semana de parciales del segundo corte-->
-	<tr>
-		<td>15/04/2024</td> <td>2</td> <td>12</td> <td>12</td> <td>Socialización de guía No. 4 de laboratorio</td>
-	</tr><!--última semana de registro de notas del primer corte-->
-
-</table>
-
-<h4>Segundo corte MEC C</h4>
-
-<table>
-	<tr>
-		<td>Fecha</td> <td>Horas</td> <td>Clase</td> <td>Semana</td> <td>Actividades</td>
-	</tr>
-	<tr>
-		<td>15/03/2024</td> <td>2</td> <td>8</td> <td>8</td> <td>Entrega de guía No. 2 de laboratorio</td>
-	</tr>
-	<tr>
-		<td>22/03/2024</td> <td>2</td> <td>9</td> <td>9</td> <td>Socialización de guía No. 3 de laboratorio</td>
-	</tr>
-	<tr>
-		<td>29/03/2024</td> <td></td> <td></td> <td></td> <td>SEMANA SANTA</td>
-	</tr>
-	<tr>
-		<td>05/04/2024</td> <td>2</td> <td>10</td> <td>10</td> <td>Desarrollo de guía No. 3 de laboratorio</td>
-	</tr>
-	<tr>
-		<td>12/04/2024</td> <td>2</td> <td>11</td> <td>11</td> <td><br>Entrega de guía No. 3 de laboratorio</td>
-	</tr><!--semana de parciales del segundo corte-->
-	<tr>
-		<td>19/04/2024</td> <td>2</td> <td>12</td> <td>12</td> <td>Socialización de guía No. 4 de laboratorio</td>
-	</tr><!--última semana de registro de notas del primer corte-->
-
-</table>
-
-<h4>Tercer corte MEC D</h4>
-
-<table>
 		<tr>
-		<td>Fecha</td> <td>Horas</td> <td>Clase</td> <td>Semana</td> <td>Actividades</td>
+		<td>21/10/2024</td> <td>2</td> <td>13</td> <td>13</td> <td>Entrega guía No. 3 de laboratorio</td>
+	</tr><!--última semana de registro de notas del segundo corte-->
+	<tr>
+		<td>28/10/2024</td> <td>2</td> <td>14</td> <td>14</td> <td>Socialización de guías No. 4 y 5 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>22/04/2024</td> <td>2</td> <td>13</td> <td>13</td> <td>Desarrollo de guía No. 4 de laboratorio</td>
+		<td>04/11/2024</td> <td>2</td> <td>15</td> <td>15</td> <td>FESTIVO</td>
 	</tr>
 	<tr>
-		<td>29/04/2024</td> <td>2</td> <td>14</td> <td>14</td> <td>Entrega de guía No. 4 de laboratorio</td>
-	</tr>
-	<tr>
-		<td>06/05/2024</td> <td>2</td> <td>15</td> <td>15</td> <td>Socialización de guía No. 5 de laboratorio</td>
-	</tr>
-	<tr>
-		<td>13/05/2024</td> <td>2</td> <td>16</td> <td>16</td> <td>FESTIVO</td>
+		<td>11/11/2024</td> <td>2</td> <td>16</td> <td>16</td> <td>FESTIVO</td>
 	</tr><!--Finalización de clases-->
 	<tr>
-		<td>20/05/2024</td> <td>2</td> <td>17</td> <td>17</td> <td>Desarrollo guía No. 5 de laboratorio</td>
-	</tr>
-	<tr>
-		<td>27/05/2024</td> <td>2</td> <td>18</td> <td>18</td> <td>Entrega de guía No. 5 de laboratorio y entrega de notas finales</td>
-	</tr>
-
+		<td>18/05/2024</td> <td>2</td> <td>17</td> <td>17</td> <td>Entrega de guías No. 4 y 5 de laboratorio y entrega de notas finales</td>
+	</tr><!--semana de examenes finales-->
 </table>
 
-<h4>Tercer corte MEC C</h4>
+<h4>MEC C</h4>
 
 <table>
-		<tr>
+	<tr>
 		<td>Fecha</td> <td>Horas</td> <td>Clase</td> <td>Semana</td> <td>Actividades</td>
 	</tr>
 	<tr>
-		<td>26/04/2024</td> <td>2</td> <td>13</td> <td>13</td> <td>Desarrollo de guía No. 4 de laboratorio</td>
+		<td>26/07/2024</td> <td>2</td> <td>1</td> <td>1</td> <td>Presentación de la materia</td>
 	</tr>
 	<tr>
-		<td>03/05/2024</td> <td>2</td> <td>14</td> <td>14</td> <td>Entrega de guía No. 4 de laboratorio</td>
+		<td>02/08/2024</td> <td>2</td> <td>2</td> <td>2</td> <td>Tutorial word para descargar Keil</td>
 	</tr>
 	<tr>
-		<td>10/05/2024</td> <td>2</td> <td>15</td> <td>15</td> <td>Socialización de guía No. 5 de laboratorio</td>
+		<td>09/08/2024</td> <td>2</td> <td>3</td> <td>3</td> <td>Socialización de guía No. 1 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>17/05/2024</td> <td>2</td> <td>16</td> <td>16</td> <td>Desarrollo de guía No. 5 de laboratorio</td>
+		<td>16/08/2024</td> <td>2</td> <td>4</td> <td>4</td> <td>Desarrollo guía No. 1 de laboratorio</td>
+	</tr>
+	<tr>
+		<td>23/08/2024</td> <td>2</td> <td>5</td> <td>5</td> <td>Entrega guía No. 1 de laboratorio</td>
+	</tr><!--semana de parciales del primer corte-->
+	<tr>
+		<td>30/08/2024</td> <td>2</td> <td>6</td> <td>6</td> <td>Socialización de guía No. 2 de laboratorio</td>
+	</tr><!--última semana de registro de notas del primer corte-->
+	<tr>
+		<td>06/09/2024</td> <td>2</td> <td>7</td> <td>7</td> <td>Desarrollo de guía No. 2 de laboratorio</td>
+	</tr>
+	<tr>
+		<td>13/09/2024</td> <td>2</td> <td>8</td> <td>8</td> <td>Entrega de guía No. 2 de laboratorio</td>
+	</tr>
+	<tr>
+		<td>20/09/2024</td> <td>2</td> <td>9</td> <td>9</td> <td>Socialización de guía No. 3 de laboratorio</td>
+	</tr>
+	<tr>
+		<td>27/09/2024</td> <td></td> <td>10</td> <td>10</td> <td>Desarrollo de guía No. 3 de laboratorio</td>
+	</tr>
+	<tr>
+		<td>04/10/2024</td> <td>2</td> <td>11</td> <td>11</td> <td>Entrega de guía No. 3 de laboratorio</td>
+	</tr><!--semana de parciales del segundo corte-->
+	<tr>
+		<td>11/10/2024</td> <td></td> <td></td> <td></td> <td><br>SEMANA DE RECESO </td>
+	</tr>
+	<tr>
+		<td>18/10/2024</td> <td>2</td> <td>12</td> <td>12</td> <td>Socialización de guía No. 4 de laboratorio</td>
+	</tr><!--última semana de registro de notas del primer corte-->
+	<tr>
+		<td>25/10/2024</td> <td>2</td> <td>13</td> <td>13</td> <td>Desarrollo de guía No. 4 de laboratorio</td>
+	</tr>
+	<tr>
+		<td>01/11/2024</td> <td>2</td> <td>14</td> <td>14</td> <td>Entrega de guía No. 4 de laboratorio</td>
+	</tr>
+	<tr>
+		<td>08/11/2024</td> <td>2</td> <td>15</td> <td>15</td> <td>Socialización de guía No. 5 de laboratorio</td>
+	</tr>
+	<tr>
+		<td>15/11/2024</td> <td>2</td> <td>16</td> <td>16</td> <td>Desarrollo de guía No. 5 de laboratorio</td>
 	</tr><!--Finalización de clases-->
 	<tr>
-		<td>24/05/2024</td> <td>2</td> <td>17</td> <td>17</td> <td>Desarrollo de guía No. 5 de laboratorio</td>
-	</tr>
-	<tr>
-		<td>31/05/2024</td> <td>2</td> <td>18</td> <td>18</td> <td>Entrega de guía No. 5 de laboratorio y entrega de notas finales</td>
-	</tr>
-
+		<td>22/11/2024</td> <td>2</td> <td>17</td> <td>17</td> <td>Entrega de guía No. 5 de laboratorio y entrega de notas finales</td>
+	</tr><!--semana de examenes finales-->
 </table>
 
 <h3>MÉTODOS DE EVALUACIÓN ✍️</h3>
