@@ -29,28 +29,28 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>05/08/2024</td> <td>2</td> <td>3</td> <td>3</td> <td>Socialización de guía No. 1 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>12/08/2024</td> <td>2</td> <td>4</td> <td>4</td> <td>Desarrollo de guía No. 1 de laboratorio</td>
+		<td>12/08/2024</td> <td>2</td> <td>4</td> <td>4</td> <td>Desarrollo y/o entrega de guía No. 1 de laboratorio</td>
 	</tr>
 	<tr>
 		<td>19/08/2024</td> <td>2</td> <td>5</td> <td>5</td> <td>FESTIVO </td>
 	</tr>
 	<tr>
-		<td>26/08/2024</td> <td>2</td> <td>6</td> <td>6</td> <td>Entrega de guía No. 1 de laboratorio </td>
+		<td>26/08/2024</td> <td>2</td> <td>6</td> <td>6</td> <td>Desarrollo y/o entrega de guía No. 1 de laboratorio </td>
 	</tr><!--semana de parciales del primer corte-->
 	<tr>
 		<td>02/09/2024</td> <td>2</td> <td>7</td> <td>7</td> <td>Socialización de Guía No. 2 de laboratorio </td>
 	</tr><!--última semana de registro de notas del primer corte-->
 	<tr>
-		<td>09/09/2024</td> <td>2</td> <td>8</td> <td>8</td> <td>Desarrollo de guía No. 2 de laboratorio</td>
+		<td>09/09/2024</td> <td>2</td> <td>8</td> <td>8</td> <td>Desarrollo y/o entrega de guía No. 2 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>16/09/2024</td> <td>2</td> <td>9</td> <td>9</td> <td>Entrega de guía No. 2 de laboratorio</td>
+		<td>16/09/2024</td> <td>2</td> <td>9</td> <td>9</td> <td>Desarrollo y/o entrega de guía No. 2 de laboratorio</td>
 	</tr>
 	<tr>
 		<td>23/09/2024</td> <td>2</td> <td>10</td> <td>10</td> <td>Socialización de guía No. 3 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>30/09/2024</td> <td>2</td> <td>11</td> <td>11</td> <td>Desarrollo de guía No. 3 de laboratorio</td>
+		<td>30/09/2024</td> <td>2</td> <td>11</td> <td>11</td> <td>Desarrollo y/o entrega de guía No. 3 de laboratorio</td>
 	</tr>
 	<tr>
 		<td>07/10/2024</td> <td></td> <td></td> <td></td> <td>SEMANA DE RECESO</td>
@@ -59,7 +59,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>14/10/2024</td> <td>2</td> <td>12</td> <td>12</td> <td>FESTIVO</td>
 	</tr><!--semana de parciales del segundo corte-->
 		<tr>
-		<td>21/10/2024</td> <td>2</td> <td>13</td> <td>13</td> <td>Entrega guía No. 3 de laboratorio</td>
+		<td>21/10/2024</td> <td>2</td> <td>13</td> <td>13</td> <td>Desarrollo y/o entrega guía No. 3 de laboratorio</td>
 	</tr><!--última semana de registro de notas del segundo corte-->
 	<tr>
 		<td>28/10/2024</td> <td>2</td> <td>14</td> <td>14</td> <td>Socialización de guías No. 4 y 5 de laboratorio</td>
@@ -71,7 +71,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>11/11/2024</td> <td>2</td> <td>16</td> <td>16</td> <td>FESTIVO</td>
 	</tr><!--Finalización de clases-->
 	<tr>
-		<td>18/11/2024</td> <td>2</td> <td>17</td> <td>17</td> <td>Entrega de guías No. 4 y 5 de laboratorio y entrega de notas finales</td>
+		<td>18/11/2024</td> <td>2</td> <td>17</td> <td>17</td> <td>Desarrollo y/o entrega de guías No. 4 y 5 de laboratorio y entrega de notas finales</td>
 	</tr><!--semana de examenes finales-->
 </table>
 
@@ -91,28 +91,28 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>09/08/2024</td> <td>2</td> <td>3</td> <td>3</td> <td>Socialización de guía No. 1 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>16/08/2024</td> <td>2</td> <td>4</td> <td>4</td> <td>Desarrollo guía No. 1 de laboratorio</td>
+		<td>16/08/2024</td> <td>2</td> <td>4</td> <td>4</td> <td>Desarrollo y/o entrega guía No. 1 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>23/08/2024</td> <td>2</td> <td>5</td> <td>5</td> <td>Entrega guía No. 1 de laboratorio</td>
+		<td>23/08/2024</td> <td>2</td> <td>5</td> <td>5</td> <td>Desarrollo y/o entrega guía No. 1 de laboratorio</td>
 	</tr><!--semana de parciales del primer corte-->
 	<tr>
 		<td>30/08/2024</td> <td>2</td> <td>6</td> <td>6</td> <td>Socialización de guía No. 2 de laboratorio</td>
 	</tr><!--última semana de registro de notas del primer corte-->
 	<tr>
-		<td>06/09/2024</td> <td>2</td> <td>7</td> <td>7</td> <td>Desarrollo de guía No. 2 de laboratorio</td>
+		<td>06/09/2024</td> <td>2</td> <td>7</td> <td>7</td> <td>Desarrollo y/o entrega de guía No. 2 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>13/09/2024</td> <td>2</td> <td>8</td> <td>8</td> <td>Entrega de guía No. 2 de laboratorio</td>
+		<td>13/09/2024</td> <td>2</td> <td>8</td> <td>8</td> <td>Desarrollo y/o entrega de guía No. 2 de laboratorio</td>
 	</tr>
 	<tr>
 		<td>20/09/2024</td> <td>2</td> <td>9</td> <td>9</td> <td>Socialización de guía No. 3 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>27/09/2024</td> <td></td> <td>10</td> <td>10</td> <td>Desarrollo de guía No. 3 de laboratorio</td>
+		<td>27/09/2024</td> <td></td> <td>10</td> <td>10</td> <td>Desarrollo y/o entrega de guía No. 3 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>04/10/2024</td> <td>2</td> <td>11</td> <td>11</td> <td>Entrega de guía No. 3 de laboratorio</td>
+		<td>04/10/2024</td> <td>2</td> <td>11</td> <td>11</td> <td>Desarrollo y/o entrega de guía No. 3 de laboratorio</td>
 	</tr><!--semana de parciales del segundo corte-->
 	<tr>
 		<td>11/10/2024</td> <td></td> <td></td> <td></td> <td>SEMANA DE RECESO </td>
@@ -121,19 +121,19 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>18/10/2024</td> <td>2</td> <td>12</td> <td>12</td> <td>Socialización de guía No. 4 de laboratorio</td>
 	</tr><!--última semana de registro de notas del primer corte-->
 	<tr>
-		<td>25/10/2024</td> <td>2</td> <td>13</td> <td>13</td> <td>Desarrollo de guía No. 4 de laboratorio</td>
+		<td>25/10/2024</td> <td>2</td> <td>13</td> <td>13</td> <td>Desarrollo y/o entrega de guía No. 4 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>01/11/2024</td> <td>2</td> <td>14</td> <td>14</td> <td>Entrega de guía No. 4 de laboratorio</td>
+		<td>01/11/2024</td> <td>2</td> <td>14</td> <td>14</td> <td>Desarrollo y/o entrega de guía No. 4 de laboratorio</td>
 	</tr>
 	<tr>
 		<td>08/11/2024</td> <td>2</td> <td>15</td> <td>15</td> <td>Socialización de guía No. 5 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>15/11/2024</td> <td>2</td> <td>16</td> <td>16</td> <td>Desarrollo de guía No. 5 de laboratorio</td>
+		<td>15/11/2024</td> <td>2</td> <td>16</td> <td>16</td> <td>Desarrollo y/o entrega de guía No. 5 de laboratorio</td>
 	</tr><!--Finalización de clases-->
 	<tr>
-		<td>22/11/2024</td> <td>2</td> <td>17</td> <td>17</td> <td>Entrega de guía No. 5 de laboratorio y entrega de notas finales</td>
+		<td>22/11/2024</td> <td>2</td> <td>17</td> <td>17</td> <td>Desarrollo y/o entrega de guía No. 5 de laboratorio y entrega de notas finales</td>
 	</tr><!--semana de examenes finales-->
 </table>
 
