@@ -26,7 +26,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>29/07/2024</td> <td>2</td> <td>2</td> <td>2</td> <td>Tutorial word para descargar Keil</td>
 	</tr>
 	<tr>
-		<td>05/08/2024</td> <td>2</td> <td>3</td> <td>3</td> <td>Socialización de guía No. 1 de laboratorio</td>
+		<td>05/08/2024</td> <td>2</td> <td>3</td> <td>3</td> <td>Socialización de guía No. 1 de laboratorio y proyecto</td>
 	</tr>
 	<tr>
 		<td>12/08/2024</td> <td>2</td> <td>4</td> <td>4</td> <td>Desarrollo y/o entrega de guía No. 1 de laboratorio</td>
@@ -35,10 +35,10 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>19/08/2024</td> <td>2</td> <td>5</td> <td>5</td> <td>FESTIVO </td>
 	</tr>
 	<tr>
-		<td>26/08/2024</td> <td>2</td> <td>6</td> <td>6</td> <td>Desarrollo y/o entrega de guía No. 1 de laboratorio </td>
+		<td>26/08/2024</td> <td>2</td> <td>6</td> <td>6</td> <td>Desarrollo y/o entrega de guía No. 1 de laboratorio</td>
 	</tr><!--semana de parciales del primer corte-->
 	<tr>
-		<td>02/09/2024</td> <td>2</td> <td>7</td> <td>7</td> <td>Socialización de Guía No. 2 de laboratorio </td>
+		<td>02/09/2024</td> <td>2</td> <td>7</td> <td>7</td> <td>Socialización de Guía No. 2 de laboratorio</td>
 	</tr><!--última semana de registro de notas del primer corte-->
 	<tr>
 		<td>09/09/2024</td> <td>2</td> <td>8</td> <td>8</td> <td>Desarrollo y/o entrega de guía No. 2 de laboratorio</td>
@@ -71,7 +71,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>11/11/2024</td> <td>2</td> <td>16</td> <td>16</td> <td>FESTIVO</td>
 	</tr><!--Finalización de clases-->
 	<tr>
-		<td>18/11/2024</td> <td>2</td> <td>17</td> <td>17</td> <td>Desarrollo y/o entrega de guías No. 4 y 5 de laboratorio y entrega de notas finales</td>
+		<td>18/11/2024</td> <td>2</td> <td>17</td> <td>17</td> <td>Desarrollo y/o entrega de guía No. 5 de laboratorio y proyecto, y entrega de notas finales</td>
 	</tr><!--semana de examenes finales-->
 </table>
 
@@ -88,7 +88,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>02/08/2024</td> <td>2</td> <td>2</td> <td>2</td> <td>Tutorial word para descargar Keil</td>
 	</tr>
 	<tr>
-		<td>09/08/2024</td> <td>2</td> <td>3</td> <td>3</td> <td>Socialización de guía No. 1 de laboratorio</td>
+		<td>09/08/2024</td> <td>2</td> <td>3</td> <td>3</td> <td>Socialización de guía No. 1 de laboratorio y proyecto</td>
 	</tr>
 	<tr>
 		<td>16/08/2024</td> <td>2</td> <td>4</td> <td>4</td> <td>Desarrollo y/o entrega guía No. 1 de laboratorio</td>
@@ -133,7 +133,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>15/11/2024</td> <td>2</td> <td>16</td> <td>16</td> <td>Desarrollo y/o entrega de guía No. 5 de laboratorio</td>
 	</tr><!--Finalización de clases-->
 	<tr>
-		<td>22/11/2024</td> <td>2</td> <td>17</td> <td>17</td> <td>Desarrollo y/o entrega de guía No. 5 de laboratorio y entrega de notas finales</td>
+		<td>22/11/2024</td> <td>2</td> <td>17</td> <td>17</td> <td>Desarrollo y/o entrega de guía No. 5 de laboratorio y proyecto, y entrega de notas finales</td>
 	</tr><!--semana de examenes finales-->
 </table>
 
