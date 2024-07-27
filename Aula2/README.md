@@ -13,6 +13,8 @@ En esta clase se presenta un instructivo de instalación en Windows del software
 7. Seleccionar el microcontrolador específico a trabajar y posteriormente instalar los paquetes requeridos, sin embargo, se recomiendan instalar y actualizar todos los paquetes para dicho microcontrolador y verificar que todos los paquetes tengan la etíqueta <i>Up to date</i>
 8. Instalar y/o actualizar los paquetes seleccionados siguiendo el proceso de instalación
 
+* Si desea instalar de manera más rápida y sencilla los paquetes para un microcontrolador STM32, descargue el instalador de los paquetes de la referencia específica <a url:"https://www.keil.arm.com/devices/">aquí</a>, en la opción 'CMSIS Pack'. Por tanto, omita los pasos 5 al 8 del anterior procedimiento.
+
 <h2>Ejemplo 'hola mundo'</h2>
 
 1. Crear un nuevo proyecto seleccionando la opción "New µVision Project" en la pestaña "Project"
