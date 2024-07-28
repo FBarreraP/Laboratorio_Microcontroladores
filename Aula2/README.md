@@ -1,4 +1,4 @@
-<h1>Aula 3</h1>
+<h1>Aula 2</h1>
 
 En esta clase se presenta un instructivo de instalación en Windows del software `ARM-Keil` para programar las tarjetas STM32, además de un hola mundo con la tarjeta NUCLEO STM32F767ZI o NUCLEO STM32F756ZG o NUCLEO STM32F746ZG o NUCLEO STM32F722ZE.
 
