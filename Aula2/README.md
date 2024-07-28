@@ -88,8 +88,8 @@ int main(){
 
 <h3>Depurar código en Keil</h3>
 
-1. Seleccionar la opción 'Start/Stop Debug Session'
-2. Para controlar la depuración del código, se deben utilizar los botones que aparecen en la parte izquierda como control de la herramienta <i>debugger</i>
+1. Seleccionar la opción '<i>Start/Stop Debug Session</i>'
+2. Para controlar la depuración del código, se deben utilizar los botones que aparecen en la parte superior izquierda como control de la herramienta <i>debugger</i>
 
 <h3>Información de apoyo</h3>
 
