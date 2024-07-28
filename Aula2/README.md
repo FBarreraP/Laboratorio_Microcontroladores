@@ -4,7 +4,7 @@ En esta clase se presenta un instructivo de instalación en Windows del software
 
 <h2>Instrucciones instalación ARM-Keil</h2>
 
-1. Ir a la página https://www.keil.com/download/product/
+1. Ir a la página principal <a href="https://www.keil.com/download/product/">aquí</a>
 2. Seleccionar la opción <b>MDK-Arm</b> y diligenciar los datos requeridos
 3. Descargar el archivo ejecutable (.exe)
 4. Instalar el software `ARM-Keil` siguiendo el proceso de instalación e instalar el driver sugerido que aparece en la ventana emergente
