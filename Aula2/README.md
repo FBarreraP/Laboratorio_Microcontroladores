@@ -13,7 +13,7 @@ En esta clase se presenta un instructivo de instalación en Windows del software
 7. Seleccionar el microcontrolador específico a trabajar y posteriormente instalar los paquetes requeridos, sin embargo, se recomiendan instalar y actualizar todos los paquetes para dicho microcontrolador y verificar que todos los paquetes tengan la etíqueta <i>Up to date</i>
 8. Instalar y/o actualizar los paquetes seleccionados siguiendo el proceso de instalación
 
-* Si desea instalar de manera más rápida y sencilla los paquetes para un microcontrolador STM32, descargue el instalador de los paquetes de la referencia específica <a url:"https://www.keil.arm.com/devices/">aquí</a>, en la opción 'CMSIS Pack'. Por tanto, omita los pasos 5 al 8 del anterior procedimiento.
+* Si desea instalar de manera más rápida y sencilla los paquetes para un microcontrolador STM32, descargue el instalador de los paquetes de la referencia específica <a href="https://www.keil.arm.com/devices/">aquí</a>, en la opción 'CMSIS Pack'. Por tanto, omita los pasos 5 al 8 del anterior procedimiento.
 
 <h2>Ejemplo 'hola mundo'</h2>
 
@@ -72,7 +72,7 @@ int main(){
 
 <h3>Descargar el software STM32 ST-LINK utility</h3>
 
-1. Descargar el software del programador <a url:"https://www.st.com/en/development-tools/stsw-link004.html">aquí</a> y el driver para las tarjetas para Windows <a url:"https://www.st.com/en/development-tools/stsw-link009.html?dl=redirect">aquí</a>
+1. Descargar el software del programador <a href="https://www.st.com/en/development-tools/stsw-link004.html">aquí</a> y el driver para las tarjetas para Windows <a href="https://www.st.com/en/development-tools/stsw-link009.html?dl=redirect">aquí</a>
 2. Instalar el software a través del proceso de instalación
 
 <h3>Configurar el software STM32 ST-LINK utility en Keil</h3>
