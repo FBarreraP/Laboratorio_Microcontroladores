@@ -72,7 +72,7 @@ int main(){
 
 <h3>Descargar el software STM32 ST-LINK utility</h3>
 
-1. Descargar el software en el siguiente link: https://www.st.com/en/development-tools/stsw-link004.html y los drivers para la tarjeta en https://www.st.com/en/development-tools/stsw-link009.html?dl=redirect
+1. Descargar el software del programador <a url:"https://www.st.com/en/development-tools/stsw-link004.html">aquí</a> y el driver para las tarjetas para Windows <a url:"https://www.st.com/en/development-tools/stsw-link009.html?dl=redirect">aquí</a>
 2. Instalar el software a través del proceso de instalación
 
 <h3>Configurar el software STM32 ST-LINK utility en Keil</h3>
