@@ -1,4 +1,4 @@
-<h1>Aula 2</h1>
+<h1>Aula 3</h1>
 
 En esta clase se presenta un instructivo de instalación en Windows del software `ARM-Keil` para programar las tarjetas STM32, además de un hola mundo con la tarjeta NUCLEO STM32F767ZI o NUCLEO STM32F756ZG o NUCLEO STM32F746ZG o NUCLEO STM32F722ZE.
 
@@ -56,14 +56,14 @@ int main(){
 	GPIOB->MODER |= (1<<6); //pin PB_3(bits 7:6) as Output (01)
 	//Step 3
 	GPIOB->OTYPER &= ~(1<<3);  // bit 3=0 --> Output push pull (HIGH or LOW)
-	GPIOB->OSPEEDR |= ((1<<7)|(1<<6));//(0b11<<26)  // Pin PB_3 (bits 7:6) as High Speed (11)
-	GPIOB->PUPDR &= ~((1<<7)|(1<<6)); //~(0b11<<26) // Pin PB_3 (bits 7:6) are 0:0 --> no pull up or pull down
+	GPIOB->OSPEEDR |= ((1<<7)|(1<<6));//(0b11<<6)  // Pin PB_3 (bits 7:6) as High Speed (11)
+	GPIOB->PUPDR &= ~(0b11<<6); //~((1<<7)|(1<<6)) // Pin PB_3 (bits 7:6) are 0:0 --> no pull up or pull down
 	
 	while(1){
-		//GPIOD->BSRR |= (1<<13); // Set the Pin PB_3
+		//GPIOD->BSRR |= (1<<3); // Set the Pin PB_3
 		GPIOB->ODR |= 1<<3; // Set the Pin PB_3
 		Delay(1000000);
-		//GPIOD->BSRR |= (1<<29); // Reset the Pin PB_3
+		//GPIOD->BSRR |= (1<<19); // Reset the Pin PB_3
 		GPIOB->ODR &= ~(1<<3); // Reset the Pin PB_3
 		Delay(1000000);
 	}
