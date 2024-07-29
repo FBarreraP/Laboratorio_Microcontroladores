@@ -62,7 +62,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>21/10/2024</td> <td>2</td> <td>13</td> <td>13</td> <td>Desarrollo y/o entrega guía No. 3 de laboratorio</td>
 	</tr><!--última semana de registro de notas del segundo corte-->
 	<tr>
-		<td>28/10/2024</td> <td>2</td> <td>14</td> <td>14</td> <td>Socialización de guías No. 4 y 5 de laboratorio</td>
+		<td>28/10/2024</td> <td>2</td> <td>14</td> <td>14</td> <td>Socialización de guías No. 4</td>
 	</tr>
 	<tr>
 		<td>04/11/2024</td> <td>2</td> <td>15</td> <td>15</td> <td>FESTIVO</td>
@@ -71,7 +71,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>11/11/2024</td> <td>2</td> <td>16</td> <td>16</td> <td>FESTIVO</td>
 	</tr><!--Finalización de clases-->
 	<tr>
-		<td>18/11/2024</td> <td>2</td> <td>17</td> <td>17</td> <td>Desarrollo y/o entrega de guías No. 4 y 5 de laboratorio y proyecto, y entrega de notas finales</td>
+		<td>18/11/2024</td> <td>2</td> <td>17</td> <td>17</td> <td>Desarrollo y/o entrega de guías No. 4 y proyecto, y entrega de notas finales</td>
 	</tr><!--semana de examenes finales-->
 </table>
 
@@ -127,13 +127,13 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>01/11/2024</td> <td>2</td> <td>14</td> <td>14</td> <td>Desarrollo y/o entrega de guía No. 4 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>08/11/2024</td> <td>2</td> <td>15</td> <td>15</td> <td>Socialización de guía No. 5 de laboratorio</td>
+		<td>08/11/2024</td> <td>2</td> <td>15</td> <td>15</td> <td>Desarrollo y/o entrega de proyecto</td>
 	</tr>
 	<tr>
-		<td>15/11/2024</td> <td>2</td> <td>16</td> <td>16</td> <td>Desarrollo y/o entrega de guía No. 5 de laboratorio</td>
+		<td>15/11/2024</td> <td>2</td> <td>16</td> <td>16</td> <td>Desarrollo y/o entrega de proyecto</td>
 	</tr><!--Finalización de clases-->
 	<tr>
-		<td>22/11/2024</td> <td>2</td> <td>17</td> <td>17</td> <td>Desarrollo y/o entrega de guía No. 5 de laboratorio y proyecto, y entrega de notas finales</td>
+		<td>22/11/2024</td> <td>2</td> <td>17</td> <td>17</td> <td>Desarrollo y/o entrega de proyecto, y entrega de notas finales</td>
 	</tr><!--semana de examenes finales-->
 </table>
 
@@ -166,12 +166,12 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 	</tr>
 	<tr>
 		<td>Guía No. 4 de laboratorio</td>
-		<td>7.5%</td>
+		<td>6%</td>
 		<td>18/11/2024</td>
 	</tr>
 	<tr>
-		<td>Guía No. 5 de laboratorio</td>
-		<td>7.5%</td>
+		<td>Proyecto</td>
+		<td>9%</td>
 		<td>18/11/2024</td>
 	</tr>
 </table>
@@ -203,12 +203,12 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 	</tr>
 	<tr>
 		<td>Guía No. 4 de laboratorio</td>
-		<td>7.5%</td>
+		<td>6%</td>
 		<td>25/10/2024<br>01/11/2024</td>
 	</tr>
 	<tr>
-		<td>Guía No. 5 de laboratorio</td>
-		<td>7.5%</td>
+		<td>Proyecto</td>
+		<td>9%</td>
 		<td>15/11/2024<br>22/11/2024</td>
 	</tr>
 </table>
