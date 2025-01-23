@@ -158,8 +158,12 @@ Nota del curso = (0.21)*NotaCorte1 + (0.21)*NotaCorte2 + (0.28)*NotaCorte3 + (**
 	<li> Computador 💻</li>
 	<li> Keil</li>
 	<li> STM-32 (NUCLEO STM32F767ZI o NUCLEO STM32F756ZG o NUCLEO STM32F746ZG o NUCLEO STM32F722ZE)</li>
-	<img src="https://www.codeinsideout.com/blog/stm32/stm32-nucleo-boards.png" alt="Imagen de Raspberrys Pi 3B y 4B" caption="Hola"/>
-    <li> Fuentes de alimentación</li>
+	<div align="center">
+	<img src="image-1.png" alt="Tarjetas STM32"/>
+	<br>
+	<figcaption>Fuente: https://www.st.com/en/ecosystems/stm32-nucleo.html</figcaption>
+	</div>
+    <li> Fuentes de alimentación (fuentes duales, cargadores celular, reguladores de voltaje, power bank, baterías)</li>
     <img src="https://cdnx.jumpseller.com/mactornica/image/9804941/1.jpg?1653696069" alt="Fuente AMS1117" caption="Hola"/>
     <li> Multimetro</li>
     <img src="https://electronicasannicolas.com.co/wp-content/uploads/2022/03/MULTIMETRO-DIGITAL-UT33C-UNIT-3641.png" alt="Multimetro UNI-T" caption="Hola"/>
@@ -169,8 +173,6 @@ Nota del curso = (0.21)*NotaCorte1 + (0.21)*NotaCorte2 + (0.28)*NotaCorte3 + (**
     <img src="https://curtocircuito.com.br/pub/media/catalog/product/cache/ebf77fb58d795a2dbe3218c301c821c6/p/o/potenci_metro_linear_-_1m_-_l20_2_.jpg" alt="potenciometro" caption="Hola"/>
     <li> Fotoresistencia</li>
     <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZMUgeeo_cD2X8ee0ldjF5oU2SK4IW-KIQ3qScgyX5VK-_nQKHIE7Nib3CWr0sns62JKbOmdY8DN4W7E6B6e69yUVtN9VqbfuQeoyVlv2DGlseWsc8h-ZgHh7Zn-HDrUTszr-FQdiEFW7nGhOPSjDTN6egELeqlyI8VwM_8mrX0z7WUQcaFnW_AAHh5Q/s499/ldr-5mm-fvml.jpg" alt="fotoresistencia" caption="Hola"/>
-    <li> PT100</li>
-    <img src="https://i0.wp.com/www.teslaelectronic.com.pe/wp-content/uploads/2019/04/RTD-PT100.1A.jpg?fit=700%2C700&ssl=1" alt="RTD PT100" caption="Hola"/>
     <li> CNY70</li>
     <img src="https://sumador.com/cdn/shop/products/SensorreflectivoCNY70-min_1_2048x2048.jpg?v=1589119003" alt="cny70" caption="Hola"/>
     <li> Display 7 segmentos 4 digitos (ánodo o cátodo común)</li>
@@ -182,9 +184,17 @@ Nota del curso = (0.21)*NotaCorte1 + (0.21)*NotaCorte2 + (0.28)*NotaCorte3 + (**
     <li> Teclado matricial de membrana</li>
     <img src="https://sonrobots.com/wp-content/uploads/2021/01/TEC16.jpg" alt="teclado matricial" caption="Hola"/>
     <li> Conversor UART a USB (FTDI)</li>
-    <img src="https://images.tcdn.com.br/img/img_prod/751846/conversor_ftdi_ft232rl_com_chave_3_3v_5v_3341_1_534bc68dc75f6a42f8b8d3d0c2d78eca.jpg" alt="FTDI FT2323RL" caption="Hola"/>
-    <li> Motor paso a paso</li>
-    <img src="https://i0.wp.com/suconel.com/wp-content/uploads/Motor-Paso-a-Paso-De-5V-4-fases-5-Paso-de-engranaje-de-alambre-28BYJ48-MOTOR5V..jpg?fit=600%2C600&ssl=1" alt="Motor paso a paso" caption="Hola"/>
+    <div align="center">
+	<img src="image.png" alt="FTDI"/>
+	<br>
+	<figcaption>Fuente: https://behind-the-scenes.net/ftdi-usb-uart-module/</figcaption>
+	</div>
+	<li> Motor paso a paso</li>
+    <div align="center">
+	<img src="image-2.png" alt="Motor Stepper"/>
+	<br>
+	<figcaption>Fuente: https://aprendiendoarduino.wordpress.com/tag/curso-iniciacion-2018/</figcaption>
+	</div>
     <li> Servomotores SG90 o MG90</li>
     <img src="https://cdn.shopify.com/s/files/1/0069/0028/5529/files/Servos_fb55bae1-aef3-4bd6-bf0f-f2eff21c849a_large.jpg?v=1565803072" alt="servomotores" caption="Hola"/>
     <li> Motoreductor DC</li>
@@ -192,7 +202,11 @@ Nota del curso = (0.21)*NotaCorte1 + (0.21)*NotaCorte2 + (0.28)*NotaCorte3 + (**
     <li> Sensor ultrasónico HC-SR04</li>
     <img src="https://ferretronica.com/cdn/shop/products/sensor_ultrasonico_HC_-_SR04_de_distancia_ultrasonido_hc-sr04_ferretronica_x700.jpg?v=1577502249" alt="HC-SR04" caption="Hola"/>
     <li> Puente H (L298/L293)</li>
-    <img src="https://www.ardobot.co/pub/media/catalog/product/cache/2641e33458f1ae4a696b47b0da974426/l/2/l2998neco.jpg" alt="L298" caption="Hola"/>
+    <div align="center">
+	<img src="image-3.png" alt="L298"/>
+	<br>
+	<figcaption>Fuente: https://howtomechatronics.com/tutorials/arduino/arduino-dc-motor-control-tutorial-l298n-pwm-h-bridge/</figcaption>
+	</div>
     <li> Encoder incremental</li>
     <img src="https://http2.mlstatic.com/D_NQ_NP_731207-MEC31981852736_082019-O.webp" alt="encoder arduino" caption="Hola"/>
     <!--
