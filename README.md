@@ -13,7 +13,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 
 <h3>TEMAS 🤓</h3>
 
-<h4>MEC D</h4>
+<h4>MEC C</h4>
 
 <table>
 	<tr>
@@ -53,19 +53,19 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>04/04/2025</td> <td>2</td> <td>11</td> <td>11</td> <td>Desarrollo y/o entrega de guía No. 3 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>11/04/2025</td> <td>2</td> <td>12</td> <td>12</td> <td>SEMANA DE RECESO</td>
+		<td>11/04/2025</td> <td>2</td> <td>12</td> <td>12</td> <td>Socialización de guía No. 4 de laboratorio</td>
 	</tr>
 	<tr>
 		<td>18/04/2025</td> <td></td> <td></td> <td></td> <td>SEMANA SANTA</td>
 	</tr><!--semana de parciales del segundo corte-->
 		<tr>
-		<td>25/04/2025</td> <td>2</td> <td>13</td> <td>13</td> <td>Socialización de guía No. 4 de laboratorio</td>
+		<td>25/04/2025</td> <td>2</td> <td>13</td> <td>13</td> <td>Desarrollo y/o entrega de guía No. 4 de laboratorio</td>
 	</tr><!--última semana de registro de notas del segundo corte-->
 	<tr>
 		<td>02/05/2025</td> <td>2</td> <td>14</td> <td>14</td> <td>Desarrollo y/o entrega de guía No. 4 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>09/05/2025</td> <td>2</td> <td>15</td> <td>15</td> <td>Desarrollo y/o entrega de guía No. 4 de laboratorio</td>
+		<td>09/05/2025</td> <td>2</td> <td>15</td> <td>15</td> <td>Desarrollo y/o entrega de proyecto</td>
 	</tr>
 	<tr>
 		<td>16/05/2025</td> <td>2</td> <td>16</td> <td>16</td> <td>Desarrollo y/o entrega de proyecto</td>
@@ -76,43 +76,6 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 </table>
 
 <h3>MÉTODOS DE EVALUACIÓN ✍️</h3>
-
-<h4>MEC D</h4>
-
-<table>
-	<tr>
-		<td>Actividad</td>
-		<td>Porcentaje 💯</td>
-		<td>Fecha</td>
-		<td>Metodología</td>
-	</tr>
-	<tr>
-		<td>Guía No. 1 de laboratorio</td>
-		<td>6%</td>
-		<td>12/08/2025<br>26/08/2025</td>
-		<td rowspan="5">Presencial</td>
-	</tr>
-	<tr>
-		<td>Guía No. 2 de laboratorio</td>
-		<td>3%</td>
-		<td>09/09/2025<br>16/09/2025</td>
-	</tr>
-	<tr>
-		<td>Guía No. 3 de laboratorio</td>
-		<td>6%</td>
-		<td>30/09/2025<br>21/10/2025</td>
-	</tr>
-	<tr>
-		<td>Guía No. 4 de laboratorio</td>
-		<td>6%</td>
-		<td>18/11/2025</td>
-	</tr>
-	<tr>
-		<td>Proyecto</td>
-		<td>9%</td>
-		<td>18/11/2025</td>
-	</tr>
-</table>
 
 <h4>MEC C</h4>
 
@@ -126,28 +89,28 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 	<tr>
 		<td>Guía No. 1 de laboratorio</td>
 		<td>6%</td>
-		<td>16/08/2025<br>23/08/2025</td>
+		<td>14/02/2025<br>21/02/2025</td>
 		<td rowspan="5">Presencial</td>
 	</tr>
 	<tr>
 		<td>Guía No. 2 de laboratorio</td>
 		<td>3%</td>
-		<td>06/09/2025<br>13/09/2025</td>
+		<td>07/03/2025<br>14/03/2025</td>
 	</tr>
 	<tr>
 		<td>Guía No. 3 de laboratorio</td>
 		<td>6%</td>
-		<td>27/09/2025<br>04/10/2025</td>
+		<td>28/03/2025<br>04/04/2025</td>
 	</tr>
 	<tr>
 		<td>Guía No. 4 de laboratorio</td>
 		<td>6%</td>
-		<td>25/10/2025<br>01/11/2025</td>
+		<td>25/04/2025<br>02/05/2025</td>
 	</tr>
 	<tr>
 		<td>Proyecto</td>
 		<td>9%</td>
-		<td>15/11/2025<br>22/11/2025</td>
+		<td>09/05/2025<br>16/05/2025<br>23/05/2025</td>
 	</tr>
 </table>
 
